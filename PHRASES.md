@@ -141,3 +141,10 @@ Best wishes, Vladislav
 |__“Inextricably linked”__   |two or more things are connected very closely and fundamentally: “Poverty and poor health are inextricably linked.”   |
 |__“I have every confidence”__   |a strong belief: “We had every confidence in the staff.”   |
 |__“It will dawn on you”__   |to become known or obvious, often suddenly: “It finally dawned on him, that she has been joking.”   |
+
+## 🔤 K
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Kick the bucket”__   |“die”(informal): “The old girl finally kicked the bucket.”   |
+|__“Keep it together”__   |to maintain composure: “I had a really hard time keeping it together after my wife died.”   |
