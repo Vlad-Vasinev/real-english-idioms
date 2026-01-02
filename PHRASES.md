@@ -247,3 +247,26 @@ Best wishes, Vladislav
 |__“See fit”__   |consider it correct or acceptable to do smth: “Why did the company see fit to give you the job?”   |
 |__“Stan a chance”__   |have a prospect of success or survival: “His rivals don’t stand a chance.”   |
 |__“So far”__   |at this particular time: “So far only two Democrats have entered the room.”   |
+
+## 🔤 T
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Time is of the essence”__   |promptness is crucial: “The patient condition is critical, so time is of the essence for the surgery.”   |
+|__“To be in a sync”__   |working together harmoniously: “We have been feeling a little out of sync with each other lately.”   |
+|__“This is a make it or break it”__   |be the factor which decides whether (smth) will succeed of fail : “The soundtrack can make or break a production.”   |
+|__“Train wreck”__   |smth that fails completely: “We movie was a train wreck.”   |
+|__“To be taken aback”__   |be surprised or shock: “He was taken aback by her directness.”   |
+|__“Take a toll”__   |have an adverse effect: “Years of working hard have taken their toll on his body.”   |
+|__“To be neck-deep(involved)”__   |to be very deeply involved in something: “The team was neck-deep in project.”   |
+|__“To be punched”__   |you have been tricked, fooled or made fun of: “I totally got punched.”   |
+|__“That would be a game”__   |fun challenge, clever strategy or that is a smart move: “Person A: Let’s go hiking!” “Person B: Sure, that would be a game for me!”   |
+|__“Take over”__   |to get control of smth: “In 1938 the Nazis took over.”   |
+|__“Talk a good game”__   |to speak very convincingly about one’s plans abilities or intensions or that they can do smth even though it is not true: “Politicians talk a good game but don’t act.”   |
+|__“Take smth for granted”__   |if you take situation or people for granted, you do not realize or show that you are grateful for how much you get from them: “You just take it for granted that people over a certain age can drive.”   |
+|__“Toady”__   |full of praise or artificially pleasant to someone in authority: “He offered a toadying tribute to his leader.”   |
+|__“Think over”__   |consider smth carefully: “He told the player to go home and think over his offer.”   |
+|__“The fruits of someone’s labor”__   |rewards, benefits come from hard work and effort: “After years of saving, she could finally enjoy the fruits of her labor as she bought her dream house.”   |
+|__“Take five”__   |have a short break: “Our crew took five at a little cafe nearby.”   |
+|__“To brief (you) in person”__   |give some details, instructions directly (personally): “I need to brief you in person on the new client.”   |
+|__“Tight leash”__   |to get control of smth: “Parents often keep teenagers on a tight leash for their safety.”   |
