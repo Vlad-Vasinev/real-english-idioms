@@ -227,3 +227,23 @@ Best wishes, Vladislav
 |__“Real deal”__   |a person or thing that is a good example of their kind: “His performance proved he is a real deal.”   |
 |__“Running low”__   |you have a small supply of something: “We are running low on cash.”   |
 |__“Remain to be seen”__   |it is not yet certain: “She has broken her leg. But it remains to be seen how badly.”   |
+
+## 🔤 S
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Second to none”__   |better than all others: “His cakes are second to none.”   |
+|__“Suck up”__   |behave obsequiously, especially for one’s own advantage: “She’s always sucking up to the boss.”   |
+|__“Shut down”__   |to reject somebody: “He asked her out, but she shut him down immediately.”   |
+|__“Stay tuned”__   |to keep watching or listening a broadcast: “Stay tuned for our breaking news report.”   |
+|__“Step in”__   |become involve in a difficult situation: “Palace officials asked the government to step in.”   |
+|__“Scale down”__   |reduce in size: “Manufacturing capacity has been scaled down.”   |
+|__“Stick around”__   |remain in or near a place: “I would like to stick around and watch the game.”   |
+|__“Simply put”__   |to explain smth in a clear, basic way: “Simply put, the economy is in trouble.”   |
+|__“Short time ago”__   |smth happened recently: “I saw her a short time ago.”   |
+|__“Stand for (smth)”__   |to support or represent a particular idea or set of ideas: “This party stands for lower taxes and individual freedom.”   |
+|__“Settle old scores”__   |take a revenge on someone: “The president used his speech to settle some one scores.”   |
+|__“Spell out”__   |to explain smth very clearly in detail: “Do I need to spell put the details of the contract for you?”   |
+|__“See fit”__   |consider it correct or acceptable to do smth: “Why did the company see fit to give you the job?”   |
+|__“Stan a chance”__   |have a prospect of success or survival: “His rivals don’t stand a chance.”   |
+|__“So far”__   |at this particular time: “So far only two Democrats have entered the room.”   |
