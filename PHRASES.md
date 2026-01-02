@@ -14,7 +14,7 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Akin to (something)”__   |similar *“They speak language akin to French.”*   |
+|__“Akin to (something)”__   |similar: *“They speak language akin to French.”*   |
 |__“About time”__   |it should happen or done now: *“It is about time you got here.”*   |
 |__“A glutton of punishment”__   |a person who is always eager to take hard or unpleasant tasks: “He is a real glutton for punishment, taking on all that extra work in the office.”   |
 |__“All-time big”__   |smth is the biggest, best or most extreme in history up to the present moment: “That player is an all-time great in football.”   |
@@ -50,3 +50,17 @@ Best wishes, Vladislav
 |__“Broad question”__   |doesn’t have one correct answer: “Tell me about the Civil War.” “What exactly? That is a broad question.”   |
 |__“By all means”__   |of course, certainly: “May I make a suggestion?” “By all means.”   |
 |__“Be predicated on (smth)”__   |based on, founded on or depending on smth else (necessary condition): “His legal argument was predicated upon a specific interpretation of the law.”   |
+
+## 🔤 C
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Cry me a river”__   |an idiom used to dismiss someone’s complaints or self-pity as exaggerated and undeserving of sympathy: “You can cry me a river, but it won’t change my decision.”   |
+|__“Carry on”__   |continue  activity or task: “She carried on watching the TV.”   |
+|__“Crybaby”__   |continue  activity or task: “She carried on watching the TV.”   |
+|__“Catch up”__   |succeed in reaching a person who is ahead of one: “He stopped and waited for Lily to catch up.”   |
+|__“Crack on”__   |proceed or progress quickly: “We’ll crack on with the rest of the job this month.”   |
+|__“Chock-full (of them)”__   |something is completely full, packed to the limit: “The stadium was chock-full of fans.”   |
+|__“Close to the edge”__   |being in a risky situation: “The company is close to the edge of bankruptcy.”   |
+|__“Come to one’s senses”__   |start to think and behave reasonably after a period of foolishness : “Phil finally came to his senses and admitted he needed help with his drinking problems.”   |
+|__“Call the shots”__   |take the initiative  : “You are the boss here - you get to call the shots.”   |
