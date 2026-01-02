@@ -306,3 +306,25 @@ Best wishes, Vladislav
 |__“You scratch my back and I’ll scratch yours”__   |if you do me a favour, I’ll return it(the origin goes back to 17th century - English navy): “I’ll cook dinner tonight if you take out the trash tomorrow. You scratch my back, I’ll scratch yours”   |
 |__“Yielded results”__   |get the outcome you were looking for: “The search yielded several potential matches.”   |
 |__“You lost me”__   |i don’t understand what you are saying: “Wait, you lost me. Can you start over from the beginning?”   |
+
+## 📜 License
+
+This phrase collection is an open educational resource.
+
+© 2024 Vladislav (and contributors)
+
+It is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+This means you are free to:
+
+__Share__ — copy and redistribute the material in any medium or format.
+
+__Adapt__ — remix, transform, and build upon the material for any purpose, even commercially.
+
+Under the following terms:
+
+Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+For more details, visit: https://creativecommons.org/licenses/by-sa/4.0/
