@@ -14,8 +14,7 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|“Akin to (something)”   |similar
-“They speak language akin to French.”   |
+|“Akin to (something)”   |similar “They speak language akin to French.”   |
 |   |   |
 |   |   |
 |   |   |
