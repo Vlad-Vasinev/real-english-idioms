@@ -190,3 +190,13 @@ Best wishes, Vladislav
 |__“Nerd alert”__   |slang used playfully to signal that someone is saying or doing smth very smart, geeky: “Person A: He was studying maths all dat again!” “Person B: Nerd alert”   |
 |__“No offence”__   |do not feel offended: “Okay lady, no offence.”   |
 |__“None whatsoever”__   |absolutely nothing, zero: “Person A: Did you have any trouble?” “Person B: None whatsoever.”   |
+
+## 🔤 O
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Our fold”__   |a group or community / family: “She always returns to the fold for her holidays.”   |
+|__“Out of sorts”__   |slightly unwell: “She has been feeling nauseous and generally out of sorts.”   |
+|__“Old stomping ground”__   |a place someone knows well and liked to frequent, but perhaps doesn’t visit as often now: “This sports bar used to be one of my brother’s old stomping ground.”   |
+|__“Out of the loop”__   |unaware of information about a particular matter: “I have been out of the loop. I didn’t realize Wendy and Bob had got engaged.”   |
+|__“On ice”__   |temporarily paused: “The project is on ice at the moment”   |
