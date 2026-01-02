@@ -165,3 +165,19 @@ Best wishes, Vladislav
 |__“Like it matters”__   |to express that smth is unimportant insignificant, or doesn’t make any difference: “Why would I care what your name is, like it matters.”   |
 |__“Lift a finger”__   |make a slightest effort to do smth, especially to help someone: “He never lifted a finger to help Jimmy released from prison.”   |
 |__“Laying waste”__   |to completely destroy, ruin smth: “The hurricane laid waste to the coastal towns.”   |
+
+## 🔤 M
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Make up for it”__   |to compensate for a mistake, loss, or shortcoming by doing smth positive to balance it(correcting a mistake): “He bought me dinner to make up for being so late the day before.”   |
+|__“Mark my words”__   |pay close attention to what I’m saying, because it’s important and will definitely happen: “He’ll cause trouble - you mark my words!.”   |
+|__“Make (something) up”__   |device or create a story or plan: “She enjoyed making up tall tales.”   |
+|__“Make it clear”__   |to explain smth so there is no confusion: “We need to make things clear before we sign a contract.”   |
+|__“Make up a story on the fly”__   |invent smth, sometimes in order to deceive people: “The new rule seems to have been created on the fly.”   |
+|__“Make exit”__   |to leave a place or situation: “She made a hasty exit after the argument.”   |
+|__“Make it count”__   |get the best possible result from a situation: “You only have one shot at this interview, so make it count.”   |
+|__“Make up for lost time”__   |to enjoy an experience as much as possible because you did not have the opportunity to do it earlier in life: “I didn’t travel much in my twenties but I’m certainly making up for lost time now.”   |
+|__“May well”__   |smth is likely or probable, a strong possibility or a reasonable conclusion: “She may well not want to travel alone.”   |
+|__“Manage your expectations”__   |keep your hopes and beliefs about outcome realistic: “I can’t finish this task in the next 3 days, it is too big. Manage your expectations.”   |
+|__“Make haste”__   |hurry: “I make haste to close the door.”   |
