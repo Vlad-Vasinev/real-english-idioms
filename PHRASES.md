@@ -101,28 +101,28 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Get (it) over with”__   |complete an unpleasant pr tedious but necessary task promptly: “I’ll be glad to get these exams over with.”   |
-|__“Get together”__   |assemble socially or cooperate: “We must get together for a drink sometime.”   |
-|__“Get to second base”__   |dating: to move beyond kissing (first base) to more involved touching, fondling above the breasts: “They kissed on their first date, but managed to get to second base by the end of their third night out.”   |
-|__“Get off on (something)”__   |to find smth exciting, especially in a sexual way: “Dave likes power, he gets off on it.”   |
-|__“Go viral”__   |when content spreads quickly and widely: “The cat video went viral.”   |
-|__“Get down to”__   |to begin to do smth, to give serious attention to smth: “I must get down to booking the hotels.”   |
-|__“Get your knickers in a twist”__   |become upset or angry: “Don’t get your knickers in a twist. I’ll be ready in a minute.”   |
-|__“Get it over with”__   |to finish or reach the end of some unpleasant work: “I’ll be glad to get these exams over with.”   |
-|__“Given the lack”__   |because there is not enough or any of smth: “Given the lack of evidence, the case was dismissed.”   |
+|__“Get (it) over with”__   |complete an unpleasant pr tedious but necessary task promptly: <br/>*“I’ll be glad to get these exams over with.”*   |
+|__“Get together”__   |assemble socially or cooperate: <br/>*“We must get together for a drink sometime.”*   |
+|__“Get to second base”__   |dating: to move beyond kissing (first base) to more involved touching, fondling above the breasts: <br/>*“They kissed on their first date, but managed to get to second base by the end of their third night out.”*   |
+|__“Get off on (something)”__   |to find smth exciting, especially in a sexual way: <br/>*“Dave likes power, he gets off on it.”*   |
+|__“Go viral”__   |when content spreads quickly and widely: <br/>*“The cat video went viral.”*   |
+|__“Get down to”__   |to begin to do smth, to give serious attention to smth: <br/>*“I must get down to booking the hotels.”*   |
+|__“Get your knickers in a twist”__   |become upset or angry: <br/>*“Don’t get your knickers in a twist. I’ll be ready in a minute.”*   |
+|__“Get it over with”__   |to finish or reach the end of some unpleasant work: <br/>*“I’ll be glad to get these exams over with.”*   |
+|__“Given the lack”__   |because there is not enough or any of smth: <br/>*“Given the lack of evidence, the case was dismissed.”*   |
 
 ## 🔤 H
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Hold your horses”__   |wait for a moment: “Just hold your horses, let’s think about it for a moment.”   |
-|__“High five”__   |greet somebody by slapping the palms: “The two officers high-five each other .”   |
-|__“Here is the rub on this”__   |here is the difficult part, problem or obstacle (originally from Shakespeare’s Hamlet): “We can buy the house, but there’s a rub: we can’t afford mortgage.”   |
-|__“Have a blast”__   |to have a really fun, exciting time: “Hope you have a blast on vacation.”   |
-|__“Hang back”__   |remain behind: “They were hanging back, each unwilling to speak first.”   |
-|__“Have a look”__   |briefly examine smth: “Can you have a look at this photo?”   |
-|__“Hold your peace”__   |remain silent about smth: “You must hold your peace and accept changes.”   |
-|__“Have a way with”__   |have a particular talent for dealing with or ability in: “She has got a way with animals.”   |
+|__“Hold your horses”__   |wait for a moment: <br/>*“Just hold your horses, let’s think about it for a moment.”*   |
+|__“High five”__   |greet somebody by slapping the palms: <br/>*“The two officers high-five each other .”*   |
+|__“Here is the rub on this”__   |here is the difficult part, problem or obstacle (originally from Shakespeare’s Hamlet): <br/>*“We can buy the house, but there’s a rub: we can’t afford mortgage.”*   |
+|__“Have a blast”__   |to have a really fun, exciting time: <br/>*“Hope you have a blast on vacation.”*   |
+|__“Hang back”__   |remain behind: <br/>*“They were hanging back, each unwilling to speak first.”*   |
+|__“Have a look”__   |briefly examine smth: <br/>*“Can you have a look at this photo?”*   |
+|__“Hold your peace”__   |remain silent about smth: <br/>*“You must hold your peace and accept changes.”*   |
+|__“Have a way with”__   |have a particular talent for dealing with or ability in: <br/>*“She has got a way with animals.”*   |
 
 ## 🔤 I
 
