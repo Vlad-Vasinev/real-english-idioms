@@ -200,3 +200,19 @@ Best wishes, Vladislav
 |__“Old stomping ground”__   |a place someone knows well and liked to frequent, but perhaps doesn’t visit as often now: “This sports bar used to be one of my brother’s old stomping ground.”   |
 |__“Out of the loop”__   |unaware of information about a particular matter: “I have been out of the loop. I didn’t realize Wendy and Bob had got engaged.”   |
 |__“On ice”__   |temporarily paused: “The project is on ice at the moment”   |
+
+## 🔤 P
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Partners don’t ditch partners”__   |true partners support each other, remain loyal and don’t abandon each other when things get tough: “Partners don’t ditch partners. I didn’t left you there, I’’ll be here with you as well.”   |
+|__“Platonic relationship”__   |a deep, intimate friendship with strong emotional connection, trust, and support, but without any romantic or sexual attraction: “Best friends who share everything.”   |
+|__“Put up with”__   |tolerate or endure smth: “I’m too tired to put up with any nonsense.”   |
+|__“Pedal to the metal”__   |at full speed: “She loved carrying down the highway with the pedal to the metal.”   |
+|__“Present and accounted for”__   |from military: used to say that all people that re supposed to be at a place or event are there: “After a fire drill, a teacher confirms: All students are present and accounted for.”   |
+|__“Patch up”__   |to temporarily mend smth broken, give quick first aid: “She managed to patch up the old fence before winter.”   |
+|__“Pay back”__   |take revenge on someone: “When someone does you wrong, the first instinct is to pay them back for hurting you.”   |
+|__“Pay the price”__   |to suffer negative consequences or unpleasant results of your own actions: “If you don’t study, you’ll pay the price on the exam.”   |
+|__“Put back into it”__   |to use a lot of physical effort to try to do smth: “Come on, we need to get this car  off the road. Put your back into it.”   |
+|__“Path of least resistance”__   |an option avoiding difficulty: “As one who shies away from confrontation, I choose the path of least resistance.”   |
+|__“Poked around”__   |to search for smth by moving things around: “I was poking around in the garage and found my old bike.”   |
