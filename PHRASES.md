@@ -110,3 +110,16 @@ Best wishes, Vladislav
 |__“Get your knickers in a twist”__   |become upset or angry: “Don’t get your knickers in a twist. I’ll be ready in a minute.”   |
 |__“Get it over with”__   |to finish or reach the end of some unpleasant work: “I’ll be glad to get these exams over with.”   |
 |__“Given the lack”__   |because there is not enough or any of smth: “Given the lack of evidence, the case was dismissed.”   |
+
+## 🔤 H
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Hold your horses”__   |wait for a moment: “Just hold your horses, let’s think about it for a moment.”   |
+|__“High five”__   |greet somebody by slapping the palms: “The two officers high-five each other .”   |
+|__“Here is the rub on this”__   |here is the difficult part, problem or obstacle (originally from Shakespeare’s Hamlet): “We can buy the house, but there’s a rub: we can’t afford mortgage.”   |
+|__“Have a blast”__   |to have a really fun, exciting time: “Hope you have a blast on vacation.”   |
+|__“Hang back”__   |remain behind: “They were hanging back, each unwilling to speak first.”   |
+|__“Have a look”__   |briefly examine smth: “Can you have a look at this photo?”   |
+|__“Hold your peace”__   |remain silent about smth: “You must hold your peace and accept changes.”   |
+|__“Have a way with”__   |have a particular talent for dealing with or ability in: “She has got a way with animals.”   |
