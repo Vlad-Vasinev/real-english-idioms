@@ -252,60 +252,60 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Time is of the essence”__   |promptness is crucial: “The patient condition is critical, so time is of the essence for the surgery.”   |
-|__“To be in a sync”__   |working together harmoniously: “We have been feeling a little out of sync with each other lately.”   |
-|__“This is a make it or break it”__   |be the factor which decides whether (smth) will succeed of fail : “The soundtrack can make or break a production.”   |
-|__“Train wreck”__   |smth that fails completely: “We movie was a train wreck.”   |
-|__“To be taken aback”__   |be surprised or shock: “He was taken aback by her directness.”   |
-|__“Take a toll”__   |have an adverse effect: “Years of working hard have taken their toll on his body.”   |
-|__“To be neck-deep(involved)”__   |to be very deeply involved in something: “The team was neck-deep in project.”   |
-|__“To be punched”__   |you have been tricked, fooled or made fun of: “I totally got punched.”   |
-|__“That would be a game”__   |fun challenge, clever strategy or that is a smart move: “Person A: Let’s go hiking!” “Person B: Sure, that would be a game for me!”   |
-|__“Take over”__   |to get control of smth: “In 1938 the Nazis took over.”   |
-|__“Talk a good game”__   |to speak very convincingly about one’s plans abilities or intensions or that they can do smth even though it is not true: “Politicians talk a good game but don’t act.”   |
-|__“Take smth for granted”__   |if you take situation or people for granted, you do not realize or show that you are grateful for how much you get from them: “You just take it for granted that people over a certain age can drive.”   |
-|__“Toady”__   |full of praise or artificially pleasant to someone in authority: “He offered a toadying tribute to his leader.”   |
-|__“Think over”__   |consider smth carefully: “He told the player to go home and think over his offer.”   |
-|__“The fruits of someone’s labor”__   |rewards, benefits come from hard work and effort: “After years of saving, she could finally enjoy the fruits of her labor as she bought her dream house.”   |
-|__“Take five”__   |have a short break: “Our crew took five at a little cafe nearby.”   |
-|__“To brief (you) in person”__   |give some details, instructions directly (personally): “I need to brief you in person on the new client.”   |
-|__“Tight leash”__   |to get control of smth: “Parents often keep teenagers on a tight leash for their safety.”   |
+|__“Time is of the essence”__   |promptness is crucial: <br/>*“The patient condition is critical, so time is of the essence for the surgery.”*   |
+|__“To be in a sync”__   |working together harmoniously: <br/>*“We have been feeling a little out of sync with each other lately.”*   |
+|__“This is a make it or break it”__   |be the factor which decides whether (smth) will succeed of fail: <br/>*“The soundtrack can make or break a production.”*   |
+|__“Train wreck”__   |smth that fails completely: <br/>*“We movie was a train wreck.”*   |
+|__“To be taken aback”__   |be surprised or shock: <br/>*“He was taken aback by her directness.”*   |
+|__“Take a toll”__   |have an adverse effect: <br/>*“Years of working hard have taken their toll on his body.”*   |
+|__“To be neck-deep(involved)”__   |to be very deeply involved in something: <br/>*“The team was neck-deep in project.”*   |
+|__“To be punched”__   |you have been tricked, fooled or made fun of: <br/>*“I totally got punched.”*   |
+|__“That would be a game”__   |fun challenge, clever strategy or that is a smart move: <br/>*“Person A: Let’s go hiking!”* <br/>*“Person B: Sure, that would be a game for me!”*   |
+|__“Take over”__   |to get control of smth: <br/>*“In 1938 the Nazis took over.”*   |
+|__“Talk a good game”__   |to speak very convincingly about one’s plans abilities or intensions or that they can do smth even though it is not true: <br/>*“Politicians talk a good game but don’t act.”*   |
+|__“Take smth for granted”__   |if you take situation or people for granted, you do not realize or show that you are grateful for how much you get from them: <br/>*“You just take it for granted that people over a certain age can drive.”*   |
+|__“Toady”__   |full of praise or artificially pleasant to someone in authority: <br/>*“He offered a toadying tribute to his leader.”*   |
+|__“Think over”__   |consider smth carefully: <br/>*“He told the player to go home and think over his offer.”*   |
+|__“The fruits of someone’s labor”__   |rewards, benefits come from hard work and effort: <br/>*“After years of saving, she could finally enjoy the fruits of her labor as she bought her dream house.”*   |
+|__“Take five”__   |have a short break: <br/>*“Our crew took five at a little cafe nearby.”*   |
+|__“To brief (you) in person”__   |give some details, instructions directly (personally): <br/>*“I need to brief you in person on the new client.”*   |
+|__“Tight leash”__   |to get control of smth: <br/>*“Parents often keep teenagers on a tight leash for their safety.”*   |
 
 ## 🔤 U
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Under the radar”__   |to operate or exist without attracting attention: “A startup keeping its project under the radar until launch to prevent competition.”   |
-|__“Under better circumstances”__   |given the difficult nature of the situation: “She had every right to be angry under the circumstances.”   |
+|__“Under the radar”__   |to operate or exist without attracting attention: <br/>*“A startup keeping its project under the radar until launch to prevent competition.”*   |
+|__“Under better circumstances”__   |given the difficult nature of the situation: <br/>*“She had every right to be angry under the circumstances.”*   |
 
 ## 🔤 W
 
 
 |Phrase   |Meaning  |
 |---|---|
-|__“We got you covered”__   |“don’t worry, we’ll handle it” (take care of a task): “Forgot you notes? No worries, I’ve got you covered.”   |
-|__“Watch out!”__   |used for warning someone of danger: “Watch out! There is a car coming!”   |
-|__“Way too”__   |much too: “The soup is way too hot.”   |
-|__“When push comes to show”__   |if absolutely necessary: “When push came to show, I always stood up for him.”   |
-|__“When it comes to”__   |when the specified matter is under consideration: “It pays to be proactive when it comes to your health.”   |
-|__“What do you make of it?”__   |a request for someone’s interpretation, asking for general view: “What do you make of these test results?”   |
-|__“Waking nightmare”__   |as a metaphor(distressing life situation): “Her first meeting with the boss was such a waking nightmare.”   |
-|__“When plans come together”__   |different elements successfully combine, making a complex idea(project or plan) work effectively, usually after a period of preparation: “At last, his plan was coming together.”   |
-|__“What in blazes”__   |used as an intensifier after a question: “What in blazes is going on here?”   |
-|__“When the tables turn”__   |a complete reversal of a situation: “The lawyer turned the tables this morning by producing some strong new evidence.”   |
-|__“What in the Sam hill?”__   |an old-fashioned American-English way to express surprise, confusion or frustration (phrase appeared in the late 1830): “Who in Sam hill are you?”   |
-|__“What gave me away?”__   |what action mistake or detail revealed my secret?: “The sound of our footsteps gave us away.”   |
-|__“With a touch?”__   |slightly, small amount: “The room was a touch too warm.”   |
+|__“We got you covered”__   |“don’t worry, we’ll handle it” (take care of a task): <br/>*“Forgot you notes? No worries, I’ve got you covered.”*   |
+|__“Watch out!”__   |used for warning someone of danger: <br/>*“Watch out! There is a car coming!”*   |
+|__“Way too”__   |much too: <br/>*“The soup is way too hot.”*   |
+|__“When push comes to show”__   |if absolutely necessary: <br/>*“When push came to show, I always stood up for him.”*   |
+|__“When it comes to”__   |when the specified matter is under consideration: <br/>*“It pays to be proactive when it comes to your health.”*   |
+|__“What do you make of it?”__   |a request for someone’s interpretation, asking for general view: <br/>*“What do you make of these test results?”*   |
+|__“Waking nightmare”__   |as a metaphor(distressing life situation): <br/>*“Her first meeting with the boss was such a waking nightmare.”*   |
+|__“When plans come together”__   |different elements successfully combine, making a complex idea(project or plan) work effectively, usually after a period of preparation: <br/>*“At last, his plan was coming together.”*   |
+|__“What in blazes”__   |used as an intensifier after a question: <br/>*“What in blazes is going on here?”*   |
+|__“When the tables turn”__   |a complete reversal of a situation: <br/>*“The lawyer turned the tables this morning by producing some strong new evidence.”*   |
+|__“What in the Sam hill?”__   |an old-fashioned American-English way to express surprise, confusion or frustration (phrase appeared in the late 1830): <br/>*“Who in Sam hill are you?”*   |
+|__“What gave me away?”__   |what action mistake or detail revealed my secret?: <br/>*“The sound of our footsteps gave us away.”*   |
+|__“With a touch?”__   |slightly, small amount: <br/>*“The room was a touch too warm.”*   |
 
 ## 🔤 Y
 
 |Phrase   |Meaning   |
 |---|---|
-|__“You’re kidding me”__   |used to express shock, disbelief of surprise: “You won the lottery? Are you kidding me?!”   |
-|__“You can’t put a price on it”__   |smth is extremely valuable, precious (beyond monetary): “You can’t put a price on child’s laughter.”   |
-|__“You scratch my back and I’ll scratch yours”__   |if you do me a favour, I’ll return it(the origin goes back to 17th century - English navy): “I’ll cook dinner tonight if you take out the trash tomorrow. You scratch my back, I’ll scratch yours”   |
-|__“Yielded results”__   |get the outcome you were looking for: “The search yielded several potential matches.”   |
-|__“You lost me”__   |i don’t understand what you are saying: “Wait, you lost me. Can you start over from the beginning?”   |
+|__“You’re kidding me”__   |used to express shock, disbelief of surprise: <br/>*“You won the lottery? Are you kidding me?!”*   |
+|__“You can’t put a price on it”__   |smth is extremely valuable, precious (beyond monetary): <br/>*“You can’t put a price on child’s laughter.”*   |
+|__“You scratch my back and I’ll scratch yours”__   |if you do me a favour, I’ll return it(the origin goes back to 17th century - English navy): <br/>*“I’ll cook dinner tonight if you take out the trash tomorrow. You scratch my back, I’ll scratch yours”*   |
+|__“Yielded results”__   |get the outcome you were looking for: <br/>*“The search yielded several potential matches.”*   |
+|__“You lost me”__   |i don’t understand what you are saying: <br/>*“Wait, you lost me. Can you start over from the beginning?”*   |
 
 ## 📜 License
 
