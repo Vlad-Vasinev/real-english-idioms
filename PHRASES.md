@@ -296,3 +296,13 @@ Best wishes, Vladislav
 |__“What in the Sam hill?”__   |an old-fashioned American-English way to express surprise, confusion or frustration (phrase appeared in the late 1830): “Who in Sam hill are you?”   |
 |__“What gave me away?”__   |what action mistake or detail revealed my secret?: “The sound of our footsteps gave us away.”   |
 |__“With a touch?”__   |slightly, small amount: “The room was a touch too warm.”   |
+
+## 🔤 Y
+
+|Phrase   |Meaning   |
+|---|---|
+|__“You’re kidding me”__   |used to express shock, disbelief of surprise: “You won the lottery? Are you kidding me?!”   |
+|__“You can’t put a price on it”__   |smth is extremely valuable, precious (beyond monetary): “You can’t put a price on child’s laughter.”   |
+|__“You scratch my back and I’ll scratch yours”__   |if you do me a favour, I’ll return it(the origin goes back to 17th century - English navy): “I’ll cook dinner tonight if you take out the trash tomorrow. You scratch my back, I’ll scratch yours”   |
+|__“Yielded results”__   |get the outcome you were looking for: “The search yielded several potential matches.”   |
+|__“You lost me”__   |i don’t understand what you are saying: “Wait, you lost me. Can you start over from the beginning?”   |
