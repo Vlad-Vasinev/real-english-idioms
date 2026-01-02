@@ -4,7 +4,7 @@
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Akin to (something)”__   |similar: <br/>*“They speak language akin to French.”*   |
+|__“Akin to (something)”__   |similar: <br/>*“They speak a language akin to French.”*   |
 |__“About time”__   |it should happen or done now: <br/>*“It is about time you got here.”*   |
 |__“A glutton for punishment”__   |a person who is always eager to take hard or unpleasant tasks: <br/>*“He is a real glutton for punishment, taking on all that extra work in the office.”*   |
 |__“All-time big”__   |smth is the biggest, best or most extreme in history up to the present moment: <br/>*“That player is an all-time great in football.”*   |
@@ -106,7 +106,7 @@
 |Phrase   |Meaning   |
 |---|---|
 |__“Hold your horses”__   |wait for a moment: <br/>*“Just hold your horses, let’s think about it for a moment.”*   |
-|__“High five”__   |greet somebody by slapping the palms: <br/>*“The two officers high-five each other .”*   |
+|__“High five”__   |greet somebody by slapping the palms: <br/>*“The two officers high-five each other.”*   |
 |__“Here is the rub on this”__   |here is the difficult part, problem or obstacle (originally from Shakespeare’s Hamlet): <br/>*“We can buy the house, but there’s a rub: we can’t afford mortgage.”*   |
 |__“Have a blast”__   |to have a really fun, exciting time: <br/>*“Hope you have a blast on vacation.”*   |
 |__“Hang back”__   |remain behind: <br/>*“They were hanging back, each unwilling to speak first.”*   |
@@ -195,7 +195,7 @@
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Partners don’t ditch partners”__   |true partners support each other, remain loyal and don’t abandon each other when things get tough: <br/>*“Partners don’t ditch partners. I didn’t leave you there, I’’ll be here with you as well.”*   |
+|__“Partners don’t ditch partners”__   |true partners support each other, remain loyal and don’t abandon each other when things get tough: <br/>*“Partners don’t ditch partners. I didn’t leave you there, I’ll be here with you as well.”*   |
 |__“Platonic relationship”__   |a deep, intimate friendship with strong emotional connection, trust, and support, but without any romantic or sexual attraction: <br/>*“Best friends who share everything.”*   |
 |__“Put up with”__   |tolerate or endure smth: <br/>*“I’m too tired to put up with any nonsense.”*   |
 |__“Pedal to the metal”__   |at full speed: <br/>*“She loved carrying down the highway with the pedal to the metal.”*   |
