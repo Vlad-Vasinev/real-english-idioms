@@ -64,3 +64,18 @@ Best wishes, Vladislav
 |__“Close to the edge”__   |being in a risky situation: “The company is close to the edge of bankruptcy.”   |
 |__“Come to one’s senses”__   |start to think and behave reasonably after a period of foolishness : “Phil finally came to his senses and admitted he needed help with his drinking problems.”   |
 |__“Call the shots”__   |take the initiative  : “You are the boss here - you get to call the shots.”   |
+
+## 🔤 D
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Double down on something”__   |to continue to do smth in an even more determined way than before: “A company might double down on marketing efforts for struggling product.”   |
+|__“Drop the ball"__   |to make a mistake, fail to do smth important, or miss an opportunity: “He wants to see me fail, I am not afraid, I won’t drop the ball.”   |
+|__“Don’t play coy (with me)“__   |stop pretending to be shy, innocent or uncertain : “You have strong ideas about this project, so, don’t play coy, tell us what you really think.”   |
+|__“Dilly-Dally“__   |waste time through aimless wandering or indecision: “Don’t dilly-dally for to long.”   |
+|__“Deal in absolutes“__   |to view the world in black-d-white, using rigid, unchanging principles, without considering nuance, context, or grey areas: “You are either with us, or you are with the terrorists.”   |
+|__“Don’t give a damn(shit/crap)“__   |not care at all: “They don’t give damn about the einvironment.”   |
+|__“Doted on“__   |to love someone completely and believe they are perfect: “He dotes on the new baby.”   |
+|__“Due to“__   |because of smth: “Due to the complaints of parents he lost his job.”   |
+|__“Distant past”__   |a time long, long ago, far back in time: “The story explores the traditions of a people from the distant past.”   |
+|__“Do over”__   |a new attempt or opportunity to do smth after a previous attempt has been unsuccessful or unsatisfactory: “Your performance is still not perfect, let’s do it over.”   |
