@@ -84,18 +84,18 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“End is in sight”__   |you are close to finishing smth difficult: “After working all night, the end is finally in sight for this report.”   |
-|__“Everything comes with a price”__   |every decision involves giving smth up for smth else: “Fame comes at a price, as she lost all her privacy.”   |
-|__“Embark on”__   |to start a new journey, project or significant undertaking(challenging and important): “They embarked on their trip to America.”   |
+|__“End is in sight”__   |you are close to finishing smth difficult: <br/>*“After working all night, the end is finally in sight for this report.”*   |
+|__“Everything comes with a price”__   |every decision involves giving smth up for smth else: <br/>*“Fame comes at a price, as she lost all her privacy.”*   |
+|__“Embark on”__   |to start a new journey, project or significant undertaking(challenging and important): <br/>*“They embarked on their trip to America.”*   |
 
 ## 🔤 F
 
 |Phrase   |Meaning   |
 |---|---|
-|__“For the sake of argument”__   |as a basis for discussion or reasoning: “I suppose, for the sake of argument, that thais is the legal position.”   |
-|__“Fend for yourselves”__   |without any help or assistance: “Now that you are adults you’ll have to fend for yourselves when it comes to bills and cooking.”   |
-|__“Finders keepers”__   |said by a child who found an object to the child who lost it, to show that they intend to keep it: “Person A: That is my car, give it back!”: “Person B: Finders keepers, first I’ll play with it for a while.”   |
-|__“Full swing”__   |at the stage when the level of activity is its highest: “The economic recovery is now in full swing.”   |
+|__“For the sake of argument”__   |as a basis for discussion or reasoning: <br/>*“I suppose, for the sake of argument, that thais is the legal position.”*   |
+|__“Fend for yourselves”__   |without any help or assistance: <br/>*“Now that you are adults you’ll have to fend for yourselves when it comes to bills and cooking.”*   |
+|__“Finders keepers”__   |said by a child who found an object to the child who lost it, to show that they intend to keep it: <br/>*“Person A: That is my car, give it back!”* <br/>*“Person B: Finders keepers, first I’ll play with it for a while.”*   |
+|__“Full swing”__   |at the stage when the level of activity is its highest: <br/>*“The economic recovery is now in full swing.”*   |
 
 ## 🔤 G
 
