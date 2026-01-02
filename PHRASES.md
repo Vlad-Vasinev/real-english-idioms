@@ -24,3 +24,29 @@ Best wishes, Vladislav
 |__“Air grievances”__   |to express complaints, publicly of formally: “I am going to air my grievances online by giving them a bad review.”   |
 |__“Are we clear?”__   |check for mutual understanding: “Just to be clear, I am not responsible for that.”   |
 |__“All the way”__   |as much as possible or completely: “I’m with you all the way.”   |
+
+## 🔤 B
+
+|Phrase   |Meaning   |
+|---|---|
+|“Bottom line”   |the fundamental and most important factor: “The bottom line is that they lost the game.”   |
+|“Break the ice”   |to do or say smth to relieve tension or get conversation going(in a strained situation): “He suggested that we play a game to break the ice.”   |
+|“Break it down”   |to simplify a complex topic by explaining it in s smaller steps: “Let me break it down for you.”   |
+|“Blend in”   |to look, act, or be similar to your surroundings: “We tried to blend into the crowd.”   |
+|“Baptism of fire”   |a difficult introduction to a new job or activity: “When I started my own small business, I went through a baptism of fire.”   |
+|“Better be safe than sorry”   |said when you think it is better to not take the risk: “Make sure you take an umbrella, I knot’s sunny now, but better be safe than sorry.”   |
+|“Be hyped”   |very enthusiastic(about smth): “I’m so hyped for the movie premiere!”   |
+|“Bolt out the door”   |to leave a place suddenly: “The cat bolted out the door when the dog appeared.”   |
+|“Bad-mouthing”   |criticise someone behind their back: “No one wants to hire him, he bad-mouths a prior employee.”   |
+|“By the skin of your teeth”   |just barely, very narrowly: “He passed the final exam by the skin of his teeth.”   |
+|“Be at the top of your game”   |to perform extremely well in a sport, job, etc: “Even at 40, that tennis player is still top of her game.”   |
+|“Beck and call”   |always having to be ready or obey: “She was confined to a wheelchair but had a private nurse at her beck and call.”   |
+|“Be grounded”   |punishment: not leaving the house except to go to school: “She was grounded for a month because of her bad grades at school.”   |
+|“Be on your guard”   |to be careful to avoid being tricked or getting into a dangerous situation: “You always have to be on your guard against pickpockets.”   |
+|“Be up to smth”   |person is doing or planning smth and keeping it in secret: “She didn’t show at our meeting and her phone went silent, she is definitely up to something.”   |
+|“Brace yourself”   |to prepare for smth difficult, unpleasant: “This final test has to be hard, brace yourself.”   |
+|“Bring the rain”   |military: to call a massive artillery: “We are in position and ready, bring the rain!”   |
+|“By the book”   |strictly according to the rules: “A cop who doesn’t exactly play it by the book.”   |
+|“Broad question”   |doesn’t have one correct answer: “Tell me about the Civil War.” “What exactly? That is a broad question.”   |
+|“By all means”   |of course, certainly: “May I make a suggestion?” “By all means.”   |
+|“Be predicated on (smth)”   |based on, founded on or depending on smth else (necessary condition): “His legal argument was predicated upon a specific interpretation of the law.”   |
