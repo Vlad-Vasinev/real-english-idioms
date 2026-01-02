@@ -277,3 +277,22 @@ Best wishes, Vladislav
 |---|---|
 |__“Under the radar”__   |to operate or exist without attracting attention: “A startup keeping it’s project under the radar until launch to prevent competition.”   |
 |__“Under better circumstances”__   |given the difficult nature of the situation: “She had every right to be angry under the circumstances.”   |
+
+## 🔤 W
+
+
+|Phrase   |Meaning  |
+|---|---|
+|__“We got you covered”__   |“don’t worry, we’ll handle it” (take care of a task): “Forgot you notes? No worries, I’ll got you covered.”   |
+|__“Watch out!”__   |used for warning someone of danger: “Watch out! There is a car coming!”   |
+|__“Way too”__   |much too: “The soup is way too hot.”   |
+|__“When push comes to show”__   |if absolutely necessary: “When push came to show, I always stood up for him.”   |
+|__“When it comes to”__   |when the specified matter is under consideration: “It pays to be proactive when it comes to your health.”   |
+|__“What do you make of it?”__   |a request for someone’s interpretation, asking for general view: “What do you make of these test results?”   |
+|__“Waking nightmare”__   |as a metaphor(distressing life situation): “Her first meeting with the boss was such a waking nightmare.”   |
+|__“When plans come together”__   |different elements successfully combine, making a complex idea(project or plan) work effectively, usually after a period of preparation: “At last, his plan was coming together.”   |
+|__“What in blazes”__   |used as an intensifier after a question: “What in blazes is going on here?”   |
+|__“When the tables turn”__   |a complete reversal of a situation: “The lawyer turned the tables this morning by producing some strong new evidence.”   |
+|__“What in the Sam hill?”__   |an old-fashioned American-English way to express surprise, confusion or frustration (phrase appeared in the late 1830): “Who in Sam hill are you?”   |
+|__“What gave me away?”__   |what action mistake or detail revealed my secret?: “The sound of our footsteps gave us away.”   |
+|__“With a touch?”__   |slightly, small amount: “The room was a touch too warm.”   |
