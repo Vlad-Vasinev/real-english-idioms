@@ -29,27 +29,27 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Bottom line”__   |the fundamental and most important factor: “The bottom line is that they lost the game.”   |
-|__“Break the ice”__   |to do or say smth to relieve tension or get conversation going(in a strained situation): “He suggested that we play a game to break the ice.”   |
-|__“Break it down”__   |to simplify a complex topic by explaining it in s smaller steps: “Let me break it down for you.”   |
-|__“Blend in”__   |to look, act, or be similar to your surroundings: “We tried to blend into the crowd.”   |
-|__“Baptism of fire”__   |a difficult introduction to a new job or activity: “When I started my own small business, I went through a baptism of fire.”   |
-|__“Better be safe than sorry”__   |said when you think it is better to not take the risk: “Make sure you take an umbrella, I knot’s sunny now, but better be safe than sorry.”   |
-|__“Be hyped”__   |very enthusiastic(about smth): “I’m so hyped for the movie premiere!”   |
-|__“Bolt out the door”__   |to leave a place suddenly: “The cat bolted out the door when the dog appeared.”   |
-|__“Bad-mouthing”__   |criticise someone behind their back: “No one wants to hire him, he bad-mouths a prior employee.”   |
-|__“By the skin of your teeth”__   |just barely, very narrowly: “He passed the final exam by the skin of his teeth.”   |
-|__“Be at the top of your game”__   |to perform extremely well in a sport, job, etc: “Even at 40, that tennis player is still top of her game.”   |
-|__“Beck and call”__   |always having to be ready or obey: “She was confined to a wheelchair but had a private nurse at her beck and call.”   |
-|__“Be grounded”__   |punishment: not leaving the house except to go to school: “She was grounded for a month because of her bad grades at school.”   |
-|__“Be on your guard”__   |to be careful to avoid being tricked or getting into a dangerous situation: “You always have to be on your guard against pickpockets.”   |
-|__“Be up to smth”__   |person is doing or planning smth and keeping it in secret: “She didn’t show at our meeting and her phone went silent, she is definitely up to something.”   |
-|__“Brace yourself”__   |to prepare for smth difficult, unpleasant: “This final test has to be hard, brace yourself.”   |
-|__“Bring the rain”__   |military: to call a massive artillery: “We are in position and ready, bring the rain!”   |
-|__“By the book”__   |strictly according to the rules: “A cop who doesn’t exactly play it by the book.”   |
-|__“Broad question”__   |doesn’t have one correct answer: “Tell me about the Civil War.” “What exactly? That is a broad question.”   |
-|__“By all means”__   |of course, certainly: “May I make a suggestion?” “By all means.”   |
-|__“Be predicated on (smth)”__   |based on, founded on or depending on smth else (necessary condition): “His legal argument was predicated upon a specific interpretation of the law.”   |
+|__“Bottom line”__   |the fundamental and most important factor: <br/>*“The bottom line is that they lost the game.”*   |
+|__“Break the ice”__   |to do or say smth to relieve tension or get conversation going(in a strained situation): <br/>*“He suggested that we play a game to break the ice.”*   |
+|__“Break it down”__   |to simplify a complex topic by explaining it in s smaller steps: <br/>*“Let me break it down for you.”*   |
+|__“Blend in”__   |to look, act, or be similar to your surroundings: <br/>*“We tried to blend into the crowd.”*   |
+|__“Baptism of fire”__   |a difficult introduction to a new job or activity: <br/>*“When I started my own small business, I went through a baptism of fire.”*   |
+|__“Better be safe than sorry”__   |said when you think it is better to not take the risk: <br/>*“Make sure you take an umbrella, I knot’s sunny now, but better be safe than sorry.”*   |
+|__“Be hyped”__   |very enthusiastic(about smth): <br/>*“I’m so hyped for the movie premiere!”*   |
+|__“Bolt out the door”__   |to leave a place suddenly: <br/>*“The cat bolted out the door when the dog appeared.”*   |
+|__“Bad-mouthing”__   |criticise someone behind their back: <br/>*“No one wants to hire him, he bad-mouths a prior employee.”*   |
+|__“By the skin of your teeth”__   |just barely, very narrowly: <br/>*“He passed the final exam by the skin of his teeth.”*   |
+|__“Be at the top of your game”__   |to perform extremely well in a sport, job, etc: <br/>*“Even at 40, that tennis player is still top of her game.”*   |
+|__“Beck and call”__   |always having to be ready or obey: <br/>*“She was confined to a wheelchair but had a private nurse at her beck and call.”*   |
+|__“Be grounded”__   |punishment: not leaving the house except to go to school: <br/>*“She was grounded for a month because of her bad grades at school.”*   |
+|__“Be on your guard”__   |to be careful to avoid being tricked or getting into a dangerous situation: <br/>*“You always have to be on your guard against pickpockets.”*   |
+|__“Be up to smth”__   |person is doing or planning smth and keeping it in secret: <br/>*“She didn’t show at our meeting and her phone went silent, she is definitely up to something.”*   |
+|__“Brace yourself”__   |to prepare for smth difficult, unpleasant: <br/>*“This final test has to be hard, brace yourself.”*   |
+|__“Bring the rain”__   |military: to call a massive artillery: <br/>*“We are in position and ready, bring the rain!”*   |
+|__“By the book”__   |strictly according to the rules: <br/>*“A cop who doesn’t exactly play it by the book.”*   |
+|__“Broad question”__   |doesn’t have one correct answer: <br/>*“Tell me about the Civil War.”* <br/>*“What exactly? That is a broad question.”*   |
+|__“By all means”__   |of course, certainly: <br/>*“May I make a suggestion?” “By all means.”*   |
+|__“Be predicated on (smth)”__   |based on, founded on or depending on smth else (necessary condition): <br/>*“His legal argument was predicated upon a specific interpretation of the law.”*   |
 
 ## 🔤 C
 
