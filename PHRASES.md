@@ -79,3 +79,11 @@ Best wishes, Vladislav
 |__“Due to“__   |because of smth: “Due to the complaints of parents he lost his job.”   |
 |__“Distant past”__   |a time long, long ago, far back in time: “The story explores the traditions of a people from the distant past.”   |
 |__“Do over”__   |a new attempt or opportunity to do smth after a previous attempt has been unsuccessful or unsatisfactory: “Your performance is still not perfect, let’s do it over.”   |
+
+## 🔤 E
+
+|Phrase   |Meaning   |
+|---|---|
+|__“End is in sight”__   |you are close to finishing smth difficult: “After working all night, the end is finally in sight for this report.”   |
+|__“Everything comes with a price”__   |every decision involves giving smth up for smth else: “Fame comes at a price, as she lost all her privacy.”   |
+|__“Embark on”__   |to start a new journey, project or significant undertaking(challenging and important): “They embarked on their trip to America.”   |
