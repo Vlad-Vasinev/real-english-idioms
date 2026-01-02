@@ -1,15 +1,5 @@
 # English idioms and phrasal verbs
 
-## The story behind this collection
-
-My name is Vladislav. I'm not a native English speaker, but for the last three years, I've been studying the language — both for work and for fun.
-This project began when I first watched "Desperate Housewives", the wonderful series by Marc Cherry. Every episode was packed with idioms and natural expressions that I never encountered in textbooks. I started writing them down, first for myself, then realizing they could help other learners like me — people who want to master real, living English, not just the grammar from school or university materials.
-This collection is the result. It’s a growing phrasebook built from the shows we watch, the games we play, and the conversations we hear.
-Want to contribute? Use the link below to visit the GitHub repository, where you can suggest new idioms, phrasal verbs, or examples.
-[Link to the GitHub repository]
-Let's find and preserve as many authentic phrases as we can together!
-Best wishes, Vladislav
-
 ## 🔤 A
 
 |Phrase   |Meaning   |
@@ -20,7 +10,7 @@ Best wishes, Vladislav
 |__“All-time big”__   |smth is the biggest, best or most extreme in history up to the present moment: <br/>*“That player is an all-time great in football.”*   |
 |__“Along the way”__   |during a journey, process, or series of events: <br/>*“We stopped for coffee along the way to the mountains.”*   |
 |__“A pat on the back”__   |an expression of approval or congratulation: <br/>*“They deserved a pat on the back for a job well done.”*   |
-|__“Alive and kicking”__   |to continue to live and exist: “Jeck’ll be there in time, if he is still alive and kicking.”   |
+|__“Alive and kicking”__   |to continue to live and exist: <br/>*“Jeck’ll be there in time, if he is still alive and kicking.”*   |
 |__“Air grievances”__   |to express complaints, publicly of formally: <br/>*“I am going to air my grievances online by giving them a bad review.”*   |
 |__“Are we clear?”__   |check for mutual understanding: <br/>*“Just to be clear, I am not responsible for that.”*   |
 |__“All the way”__   |as much as possible or completely: <br/>*“I’m with you all the way.”*   |
@@ -31,10 +21,10 @@ Best wishes, Vladislav
 |---|---|
 |__“Bottom line”__   |the fundamental and most important factor: <br/>*“The bottom line is that they lost the game.”*   |
 |__“Break the ice”__   |to do or say smth to relieve tension or get conversation going(in a strained situation): <br/>*“He suggested that we play a game to break the ice.”*   |
-|__“Break it down”__   |to simplify a complex topic by explaining it in s smaller steps: <br/>*“Let me break it down for you.”*   |
+|__“Break it down”__   |to simplify a complex topic by explaining it in smaller steps: <br/>*“Let me break it down for you.”*   |
 |__“Blend in”__   |to look, act, or be similar to your surroundings: <br/>*“We tried to blend into the crowd.”*   |
 |__“Baptism of fire”__   |a difficult introduction to a new job or activity: <br/>*“When I started my own small business, I went through a baptism of fire.”*   |
-|__“Better be safe than sorry”__   |said when you think it is better to not take the risk: <br/>*“Make sure you take an umbrella, I knot’s sunny now, but better be safe than sorry.”*   |
+|__“Better be safe than sorry”__   |said when you think it is better to not take the risk: <br/>*“Make sure you take an umbrella, It’s sunny now, but better be safe than sorry.”*   |
 |__“Be hyped”__   |very enthusiastic(about smth): <br/>*“I’m so hyped for the movie premiere!”*   |
 |__“Bolt out the door”__   |to leave a place suddenly: <br/>*“The cat bolted out the door when the dog appeared.”*   |
 |__“Bad-mouthing”__   |criticise someone behind their back: <br/>*“No one wants to hire him, he bad-mouths a prior employee.”*   |
@@ -56,7 +46,7 @@ Best wishes, Vladislav
 |Phrase   |Meaning   |
 |---|---|
 |__“Cry me a river”__   |an idiom used to dismiss someone’s complaints or self-pity as exaggerated and undeserving of sympathy: <br/>*“You can cry me a river, but it won’t change my decision.”*   |
-|__“Carry on”__   |continue  activity or task: <br/>*“She carried on watching the TV.”*   |
+|__“Carry on”__   |continue an activity or task: <br/>*“She carried on watching the TV.”*   |
 |__“Crybaby”__   |someone who tries very easily and complains a lot: <br/>*“Don’t be such a crybaby, it’s only a scratch.”*   |
 |__“Catch up”__   |succeed in reaching a person who is ahead of one: <br/>*“He stopped and waited for Lily to catch up.”*   |
 |__“Crack on”__   |proceed or progress quickly: <br/>*“We’ll crack on with the rest of the job this month.”*   |
@@ -72,7 +62,7 @@ Best wishes, Vladislav
 |__“Double down on something”__   |to continue to do smth in an even more determined way than before: <br/>*“A company might double down on marketing efforts for a struggling product.”*   |
 |__“Drop the ball"__   |to make a mistake, fail to do smth important, or miss an opportunity: <br/>*“He wants to see me fail, I am not afraid, I won’t drop the ball.”*   |
 |__“Don’t play coy (with me)“__   |stop pretending to be shy, innocent or uncertain : <br/>*“You have strong ideas about this project, so, don’t play coy, tell us what you really think.”*   |
-|__“Dilly-Dally“__   |waste time through aimless wandering or indecision: <br/>*“Don’t dilly-dally for to long.”*   |
+|__“Dilly-Dally“__   |waste time through aimless wandering or indecision: <br/>*“Don’t dilly-dally for too long.”*   |
 |__“Deal in absolutes“__   |to view the world in black-d-white, using rigid, unchanging principles, without considering nuance, context, or grey areas: <br/>*“You are either with us, or you are with the terrorists.”*   |
 |__“Don’t give a damn(shit/crap)“__   |not care at all: <br/>*“They don’t give damn about the environment.”*   |
 |__“Doted on“__   |to love someone completely and believe they are perfect: <br/>*“He dotes on the new baby.”*   |
@@ -92,7 +82,7 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“For the sake of argument”__   |as a basis for discussion or reasoning: <br/>*“I suppose, for the sake of argument, that thais is the legal position.”*   |
+|__“For the sake of argument”__   |as a basis for discussion or reasoning: <br/>*“I suppose, for the sake of argument, that this is the legal position.”*   |
 |__“Fend for yourselves”__   |without any help or assistance: <br/>*“Now that you are adults you’ll have to fend for yourselves when it comes to bills and cooking.”*   |
 |__“Finders keepers”__   |said by a child who found an object to the child who lost it, to show that they intend to keep it: <br/>*“Person A: That is my car, give it back!”* <br/>*“Person B: Finders keepers, first I’ll play with it for a while.”*   |
 |__“Full swing”__   |at the stage when the level of activity is its highest: <br/>*“The economic recovery is now in full swing.”*   |
@@ -101,7 +91,7 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Get (it) over with”__   |complete an unpleasant pr tedious but necessary task promptly: <br/>*“I’ll be glad to get these exams over with.”*   |
+|__“Get (it) over with”__   |complete an unpleasant or tedious but necessary task promptly: <br/>*“I’ll be glad to get these exams over with.”*   |
 |__“Get together”__   |assemble socially or cooperate: <br/>*“We must get together for a drink sometime.”*   |
 |__“Get to second base”__   |dating: to move beyond kissing (first base) to more involved touching, fondling above the breasts: <br/>*“They kissed on their first date, but managed to get to second base by the end of their third night out.”*   |
 |__“Get off on (something)”__   |to find smth exciting, especially in a sexual way: <br/>*“Dave likes power, he gets off on it.”*   |
@@ -131,7 +121,7 @@ Best wishes, Vladislav
 |__“In an effort to”__   |with the aim of, trying to, or in an attempt to achieve a specific goal or outcome: <br/>*“The company launched a campaign in an effort to increase sales.”*   |
 |__“It clouds your thinking”, same as “short-sighted thinking“__   |not thinking enough about how an action’ll affect the future: <br/>*“Don’t let your anger cloud your thinking.”*   |
 |__“It would stand to reason”__   |it is obvious or logical: <br/>*“It stands to reason that if you are friendly to people you’ll get more back.”*   |
-|__“I can relate”__   |you understand and share somebody’s feelings or experiences: <br/>*“Person A: I’m so stressed about this deadline.* <br/>*Person B: I can relate.”*   |
+|__“I can relate”__   |you understand and share somebody’s feelings or experiences: <br/>*“Person A: I’m so stressed about this deadline."* <br/>*"Person B: I can relate.”*   |
 |__“I’m gonna level with you”__   |i am gonna be honest with you: <br/>*“He never leveled with his parents about the accident.”*   |
 |__“I have a visual”__   |clearly see smth, spot a target: <br/>*“Person A: Can you see the house?”* <br/>*“Person B: Yes, I have a visual.”*   |
 |__“It could take a while”__   |a task or process will require significant, but unspecified, amount of time: <br/>*“I’m working on the report, but it could take a while”*   |
@@ -153,12 +143,12 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Lock in”__   |to focus intensely on smth: <br/>*“I have a bit test tomorrow, I need to lock in tonight.”*   |
+|__“Lock in”__   |to focus intensely on smth: <br/>*“I have a big test tomorrow, I need to lock in tonight.”*   |
 |__“Like a frog in a pond”__   |feeling insignificant or out of place in a large, overwhelming environment where other seem more skilled or important: <br/>*“Someone new to a huge corporation might feel like a little frog in a big pond.”*   |
 |__“Letdown”__   |disappointment: <br/>*“The election was a bit of let-down.”*   |
 |__“Leg up”__   |gain some advantage: <br/>*“This technology will give it a leg up on the competition.”*   |
 |__“Likewise”__   |in the same way / similar / also: <br/>*“Person A: Pleased to meet you.”* <br/>*“Person B: Likewise.”*   |
-|__“Limbo”__   |an uncertain situation that you can’t control: <br/>*“We felt that we were left in limbo wondering wondering what was happening.”*   |
+|__“Limbo”__   |an uncertain situation that you can’t control: <br/>*“We felt that we were left in limbo wondering what was happening.”*   |
 |__“Lying around”__   |to spend time being idle or relaxing: <br/>*“We spend the weekend just lying around.”*   |
 |__“Loose cannon”__   |an unpredictable or uncontrolled person who is liable to cause unintentional damage: <br/>*“I don’t think we can take a risk on a loose cannon like him running our country.”*   |
 |__“Let me get this straight”__   |let me make sure that I have a clear understanding of topic or situation: <br/>*“You need to get your facts straight.”*   |
@@ -242,7 +232,7 @@ Best wishes, Vladislav
 |__“Simply put”__   |to explain smth in a clear, basic way: <br/>*“Simply put, the economy is in trouble.”*   |
 |__“Short time ago”__   |smth happened recently: <br/>*“I saw her a short time ago.”*   |
 |__“Stand for (smth)”__   |to support or represent a particular idea or set of ideas: <br/>*“This party stands for lower taxes and individual freedom.”*   |
-|__“Settle old scores”__   |take a revenge on someone: <br/>*“The president used his speech to settle some one scores.”*   |
+|__“Settle old scores”__   |take a revenge on someone: <br/>*“The president used his speech to settle some old scores.”*   |
 |__“Spell out”__   |to explain smth very clearly in detail: <br/>*“Do I need to spell out the details of the contract for you?”*   |
 |__“See fit”__   |consider it correct or acceptable to do smth: <br/>*“Why did the company see fit to give you the job?”*   |
 |__“Stand a chance”__   |have a prospect of success or survival: <br/>*“His rivals don’t stand a chance.”*   |
@@ -283,7 +273,7 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning  |
 |---|---|
-|__“We got you covered”__   |“don’t worry, we’ll handle it” (take care of a task): <br/>*“Forgot you notes? No worries, I’ve got you covered.”*   |
+|__“We got you covered”__   |“don’t worry, we’ll handle it” (take care of a task): <br/>*“Forgot your notes? No worries, I’ve got you covered.”*   |
 |__“Watch out!”__   |used for warning someone of danger: <br/>*“Watch out! There is a car coming!”*   |
 |__“Way too”__   |much too: <br/>*“The soup is way too hot.”*   |
 |__“When push comes to show”__   |if absolutely necessary: <br/>*“When push came to show, I always stood up for him.”*   |
