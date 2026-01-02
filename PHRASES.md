@@ -216,3 +216,14 @@ Best wishes, Vladislav
 |__“Put back into it”__   |to use a lot of physical effort to try to do smth: “Come on, we need to get this car  off the road. Put your back into it.”   |
 |__“Path of least resistance”__   |an option avoiding difficulty: “As one who shies away from confrontation, I choose the path of least resistance.”   |
 |__“Poked around”__   |to search for smth by moving things around: “I was poking around in the garage and found my old bike.”   |
+
+## 🔤 R
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Ring the bell”__   |sound vaguely familiar: “The name rings a bell.”   |
+|__“Rule of thumb”__   |a broadly accurate guide or principle based on practise rather than theory: “A good rule of thumb is that a portion of rice is two handfuls.”   |
+|__“Root for”__   |to hope for success of someone / smth: “The vast majority of the fans rooting for Mexico.”   |
+|__“Real deal”__   |a person or thing that is a good example of their kind: “His performance proved he is a real deal.”   |
+|__“Running low”__   |you have a small supply of something: “We are running low on cash.”   |
+|__“Remain to be seen”__   |it is not yet certain: “She has broken her leg. But it remains to be seen how badly.”   |
