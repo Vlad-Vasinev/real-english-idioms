@@ -55,30 +55,30 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Cry me a river”__   |an idiom used to dismiss someone’s complaints or self-pity as exaggerated and undeserving of sympathy: “You can cry me a river, but it won’t change my decision.”   |
-|__“Carry on”__   |continue  activity or task: “She carried on watching the TV.”   |
-|__“Crybaby”__   |someone who tries very easily and complains a lot: “Don’t be such a crybaby, it’s only a scratch.”   |
-|__“Catch up”__   |succeed in reaching a person who is ahead of one: “He stopped and waited for Lily to catch up.”   |
-|__“Crack on”__   |proceed or progress quickly: “We’ll crack on with the rest of the job this month.”   |
-|__“Chock-full (of them)”__   |something is completely full, packed to the limit: “The stadium was chock-full of fans.”   |
-|__“Close to the edge”__   |being in a risky situation: “The company is close to the edge of bankruptcy.”   |
-|__“Come to one’s senses”__   |start to think and behave reasonably after a period of foolishness : “Phil finally came to his senses and admitted he needed help with his drinking problems.”   |
-|__“Call the shots”__   |take the initiative  : “You are the boss here - you get to call the shots.”   |
+|__“Cry me a river”__   |an idiom used to dismiss someone’s complaints or self-pity as exaggerated and undeserving of sympathy: <br/>*“You can cry me a river, but it won’t change my decision.”*   |
+|__“Carry on”__   |continue  activity or task: <br/>*“She carried on watching the TV.”*   |
+|__“Crybaby”__   |someone who tries very easily and complains a lot: <br/>*“Don’t be such a crybaby, it’s only a scratch.”*   |
+|__“Catch up”__   |succeed in reaching a person who is ahead of one: <br/>*“He stopped and waited for Lily to catch up.”*   |
+|__“Crack on”__   |proceed or progress quickly: <br/>*“We’ll crack on with the rest of the job this month.”*   |
+|__“Chock-full (of them)”__   |something is completely full, packed to the limit: <br/>*“The stadium was chock-full of fans.”*   |
+|__“Close to the edge”__   |being in a risky situation: <br/>*“The company is close to the edge of bankruptcy.”*   |
+|__“Come to one’s senses”__   |start to think and behave reasonably after a period of foolishness : <br/>*“Phil finally came to his senses and admitted he needed help with his drinking problems.”*   |
+|__“Call the shots”__   |take the initiative: <br/>*“You are the boss here - you get to call the shots.”*   |
 
 ## 🔤 D
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Double down on something”__   |to continue to do smth in an even more determined way than before: “A company might double down on marketing efforts for a struggling product.”   |
-|__“Drop the ball"__   |to make a mistake, fail to do smth important, or miss an opportunity: “He wants to see me fail, I am not afraid, I won’t drop the ball.”   |
-|__“Don’t play coy (with me)“__   |stop pretending to be shy, innocent or uncertain : “You have strong ideas about this project, so, don’t play coy, tell us what you really think.”   |
-|__“Dilly-Dally“__   |waste time through aimless wandering or indecision: “Don’t dilly-dally for to long.”   |
-|__“Deal in absolutes“__   |to view the world in black-d-white, using rigid, unchanging principles, without considering nuance, context, or grey areas: “You are either with us, or you are with the terrorists.”   |
-|__“Don’t give a damn(shit/crap)“__   |not care at all: “They don’t give damn about the environment.”   |
-|__“Doted on“__   |to love someone completely and believe they are perfect: “He dotes on the new baby.”   |
-|__“Due to“__   |because of smth: “Due to the complaints of parents he lost his job.”   |
-|__“Distant past”__   |a time long, long ago, far back in time: “The story explores the traditions of a people from the distant past.”   |
-|__“Do over”__   |a new attempt or opportunity to do smth after a previous attempt has been unsuccessful or unsatisfactory: “Your performance is still not perfect, let’s do it over.”   |
+|__“Double down on something”__   |to continue to do smth in an even more determined way than before: <br/>*“A company might double down on marketing efforts for a struggling product.”*   |
+|__“Drop the ball"__   |to make a mistake, fail to do smth important, or miss an opportunity: <br/>*“He wants to see me fail, I am not afraid, I won’t drop the ball.”*   |
+|__“Don’t play coy (with me)“__   |stop pretending to be shy, innocent or uncertain : <br/>*“You have strong ideas about this project, so, don’t play coy, tell us what you really think.”*   |
+|__“Dilly-Dally“__   |waste time through aimless wandering or indecision: <br/>*“Don’t dilly-dally for to long.”*   |
+|__“Deal in absolutes“__   |to view the world in black-d-white, using rigid, unchanging principles, without considering nuance, context, or grey areas: <br/>*“You are either with us, or you are with the terrorists.”*   |
+|__“Don’t give a damn(shit/crap)“__   |not care at all: <br/>*“They don’t give damn about the environment.”*   |
+|__“Doted on“__   |to love someone completely and believe they are perfect: <br/>*“He dotes on the new baby.”*   |
+|__“Due to“__   |because of smth: <br/>*“Due to the complaints of parents he lost his job.”*   |
+|__“Distant past”__   |a time long, long ago, far back in time: <br/>*“The story explores the traditions of a people from the distant past.”*   |
+|__“Do over”__   |a new attempt or opportunity to do smth after a previous attempt has been unsuccessful or unsatisfactory: <br/>*“Your performance is still not perfect, let’s do it over.”*   |
 
 ## 🔤 E
 
