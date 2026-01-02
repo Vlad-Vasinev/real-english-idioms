@@ -16,7 +16,7 @@ Best wishes, Vladislav
 |---|---|
 |__“Akin to (something)”__   |similar: *“They speak language akin to French.”*   |
 |__“About time”__   |it should happen or done now: *“It is about time you got here.”*   |
-|__“A glutton of punishment”__   |a person who is always eager to take hard or unpleasant tasks: “He is a real glutton for punishment, taking on all that extra work in the office.”   |
+|__“A glutton for punishment”__   |a person who is always eager to take hard or unpleasant tasks: “He is a real glutton for punishment, taking on all that extra work in the office.”   |
 |__“All-time big”__   |smth is the biggest, best or most extreme in history up to the present moment: “That player is an all-time great in football.”   |
 |__“Along the way”__   |during a journey, process, or series of events: “We stopped for coffee along the way to the mountains.”   |
 |__“A pat on the back”__   |an expression of approval or congratulation: “They deserved a pat on the back for a job well done.”   |
@@ -57,7 +57,7 @@ Best wishes, Vladislav
 |---|---|
 |__“Cry me a river”__   |an idiom used to dismiss someone’s complaints or self-pity as exaggerated and undeserving of sympathy: “You can cry me a river, but it won’t change my decision.”   |
 |__“Carry on”__   |continue  activity or task: “She carried on watching the TV.”   |
-|__“Crybaby”__   |continue  activity or task: “She carried on watching the TV.”   |
+|__“Crybaby”__   |someone who tries very easily and complains a lot: “Don’t be such a crybaby, it’s only a scratch.”   |
 |__“Catch up”__   |succeed in reaching a person who is ahead of one: “He stopped and waited for Lily to catch up.”   |
 |__“Crack on”__   |proceed or progress quickly: “We’ll crack on with the rest of the job this month.”   |
 |__“Chock-full (of them)”__   |something is completely full, packed to the limit: “The stadium was chock-full of fans.”   |
@@ -69,12 +69,12 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Double down on something”__   |to continue to do smth in an even more determined way than before: “A company might double down on marketing efforts for struggling product.”   |
+|__“Double down on something”__   |to continue to do smth in an even more determined way than before: “A company might double down on marketing efforts for a struggling product.”   |
 |__“Drop the ball"__   |to make a mistake, fail to do smth important, or miss an opportunity: “He wants to see me fail, I am not afraid, I won’t drop the ball.”   |
 |__“Don’t play coy (with me)“__   |stop pretending to be shy, innocent or uncertain : “You have strong ideas about this project, so, don’t play coy, tell us what you really think.”   |
 |__“Dilly-Dally“__   |waste time through aimless wandering or indecision: “Don’t dilly-dally for to long.”   |
 |__“Deal in absolutes“__   |to view the world in black-d-white, using rigid, unchanging principles, without considering nuance, context, or grey areas: “You are either with us, or you are with the terrorists.”   |
-|__“Don’t give a damn(shit/crap)“__   |not care at all: “They don’t give damn about the einvironment.”   |
+|__“Don’t give a damn(shit/crap)“__   |not care at all: “They don’t give damn about the environment.”   |
 |__“Doted on“__   |to love someone completely and believe they are perfect: “He dotes on the new baby.”   |
 |__“Due to“__   |because of smth: “Due to the complaints of parents he lost his job.”   |
 |__“Distant past”__   |a time long, long ago, far back in time: “The story explores the traditions of a people from the distant past.”   |
@@ -101,9 +101,9 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Get over  with”__   |complete an unpleasant pr tedious but necessary task promptly: “I’ll be glad to get these exams over with.”   |
+|__“Get (it) over with”__   |complete an unpleasant pr tedious but necessary task promptly: “I’ll be glad to get these exams over with.”   |
 |__“Get together”__   |assemble socially or cooperate: “We must get together for a drink sometime.”   |
-|__“Get to second base”__   |dating: to move beyond kissing (first base) to more involved touching, fondling above the breasts: “They kissed on their first date, but managed to get to the second base by the end of their third night out.”   |
+|__“Get to second base”__   |dating: to move beyond kissing (first base) to more involved touching, fondling above the breasts: “They kissed on their first date, but managed to get to second base by the end of their third night out.”   |
 |__“Get off on (something)”__   |to find smth exciting, especially in a sexual way: “Dave likes power, he gets off on it.”   |
 |__“Go viral”__   |when content spreads quickly and widely: “The cat video went viral.”   |
 |__“Get down to”__   |to begin to do smth, to give serious attention to smth: “I must get down to booking the hotels.”   |
@@ -137,7 +137,7 @@ Best wishes, Vladislav
 |__“It could take a while”__   |a task or process will require significant, but unspecified, amount of time: “I’m working on the report, but it could take a while”   |
 |__“In all likelihood”__   |high probability: “In all likelihood, the flight will be delayed due to the storm.”   |
 |__“In a sense”__   |partly true, true in one way: “In a sense, behaviour can not develop independently of the environment.”   |
-|__“In am on edge”__   |feeling nervous, tense, irritable: “I am on edge waiting for the exam results.”   |
+|__“I am on edge”__   |feeling nervous, tense, irritable: “I am on edge waiting for the exam results.”   |
 |__“Inextricably linked”__   |two or more things are connected very closely and fundamentally: “Poverty and poor health are inextricably linked.”   |
 |__“I have every confidence”__   |a strong belief: “We had every confidence in the staff.”   |
 |__“It will dawn on you”__   |to become known or obvious, often suddenly: “It finally dawned on him, that she has been joking.”   |
@@ -187,7 +187,7 @@ Best wishes, Vladislav
 |Phrase   |Meaning   |
 |---|---|
 |__“Never miss a trick”__   |never fail to take an advantage of a situation: “Despite his great wealth, John didn’t miss a trick when it came to cutting costs.”   |
-|__“Nerd alert”__   |slang used playfully to signal that someone is saying or doing smth very smart, geeky: “Person A: He was studying maths all dat again!” “Person B: Nerd alert”   |
+|__“Nerd alert”__   |slang used playfully to signal that someone is saying or doing smth very smart, geeky: “Person A: He was studying maths all day again!” “Person B: Nerd alert”   |
 |__“No offence”__   |do not feel offended: “Okay lady, no offence.”   |
 |__“None whatsoever”__   |absolutely nothing, zero: “Person A: Did you have any trouble?” “Person B: None whatsoever.”   |
 
@@ -205,7 +205,7 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Partners don’t ditch partners”__   |true partners support each other, remain loyal and don’t abandon each other when things get tough: “Partners don’t ditch partners. I didn’t left you there, I’’ll be here with you as well.”   |
+|__“Partners don’t ditch partners”__   |true partners support each other, remain loyal and don’t abandon each other when things get tough: “Partners don’t ditch partners. I didn’t leave you there, I’’ll be here with you as well.”   |
 |__“Platonic relationship”__   |a deep, intimate friendship with strong emotional connection, trust, and support, but without any romantic or sexual attraction: “Best friends who share everything.”   |
 |__“Put up with”__   |tolerate or endure smth: “I’m too tired to put up with any nonsense.”   |
 |__“Pedal to the metal”__   |at full speed: “She loved carrying down the highway with the pedal to the metal.”   |
@@ -243,9 +243,9 @@ Best wishes, Vladislav
 |__“Short time ago”__   |smth happened recently: “I saw her a short time ago.”   |
 |__“Stand for (smth)”__   |to support or represent a particular idea or set of ideas: “This party stands for lower taxes and individual freedom.”   |
 |__“Settle old scores”__   |take a revenge on someone: “The president used his speech to settle some one scores.”   |
-|__“Spell out”__   |to explain smth very clearly in detail: “Do I need to spell put the details of the contract for you?”   |
+|__“Spell out”__   |to explain smth very clearly in detail: “Do I need to spell out the details of the contract for you?”   |
 |__“See fit”__   |consider it correct or acceptable to do smth: “Why did the company see fit to give you the job?”   |
-|__“Stan a chance”__   |have a prospect of success or survival: “His rivals don’t stand a chance.”   |
+|__“Stand a chance”__   |have a prospect of success or survival: “His rivals don’t stand a chance.”   |
 |__“So far”__   |at this particular time: “So far only two Democrats have entered the room.”   |
 
 ## 🔤 T
@@ -275,7 +275,7 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Under the radar”__   |to operate or exist without attracting attention: “A startup keeping it’s project under the radar until launch to prevent competition.”   |
+|__“Under the radar”__   |to operate or exist without attracting attention: “A startup keeping its project under the radar until launch to prevent competition.”   |
 |__“Under better circumstances”__   |given the difficult nature of the situation: “She had every right to be angry under the circumstances.”   |
 
 ## 🔤 W
@@ -283,7 +283,7 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning  |
 |---|---|
-|__“We got you covered”__   |“don’t worry, we’ll handle it” (take care of a task): “Forgot you notes? No worries, I’ll got you covered.”   |
+|__“We got you covered”__   |“don’t worry, we’ll handle it” (take care of a task): “Forgot you notes? No worries, I’ve got you covered.”   |
 |__“Watch out!”__   |used for warning someone of danger: “Watch out! There is a car coming!”   |
 |__“Way too”__   |much too: “The soup is way too hot.”   |
 |__“When push comes to show”__   |if absolutely necessary: “When push came to show, I always stood up for him.”   |
