@@ -15,15 +15,15 @@ Best wishes, Vladislav
 |Phrase   |Meaning   |
 |---|---|
 |__“Akin to (something)”__   |similar: <br/>*“They speak language akin to French.”*   |
-|__“About time”__   |it should happen or done now: “It is about time you got here.”   |
-|__“A glutton for punishment”__   |a person who is always eager to take hard or unpleasant tasks: “He is a real glutton for punishment, taking on all that extra work in the office.”   |
-|__“All-time big”__   |smth is the biggest, best or most extreme in history up to the present moment: “That player is an all-time great in football.”   |
-|__“Along the way”__   |during a journey, process, or series of events: “We stopped for coffee along the way to the mountains.”   |
-|__“A pat on the back”__   |an expression of approval or congratulation: “They deserved a pat on the back for a job well done.”   |
+|__“About time”__   |it should happen or done now: <br/>*“It is about time you got here.”*   |
+|__“A glutton for punishment”__   |a person who is always eager to take hard or unpleasant tasks: <br/>*“He is a real glutton for punishment, taking on all that extra work in the office.”*   |
+|__“All-time big”__   |smth is the biggest, best or most extreme in history up to the present moment: <br/>*“That player is an all-time great in football.”*   |
+|__“Along the way”__   |during a journey, process, or series of events: <br/>*“We stopped for coffee along the way to the mountains.”*   |
+|__“A pat on the back”__   |an expression of approval or congratulation: <br/>*“They deserved a pat on the back for a job well done.”*   |
 |__“Alive and kicking”__   |to continue to live and exist: “Jeck’ll be there in time, if he is still alive and kicking.”   |
-|__“Air grievances”__   |to express complaints, publicly of formally: “I am going to air my grievances online by giving them a bad review.”   |
-|__“Are we clear?”__   |check for mutual understanding: “Just to be clear, I am not responsible for that.”   |
-|__“All the way”__   |as much as possible or completely: “I’m with you all the way.”   |
+|__“Air grievances”__   |to express complaints, publicly of formally: <br/>*“I am going to air my grievances online by giving them a bad review.”*   |
+|__“Are we clear?”__   |check for mutual understanding: <br/>*“Just to be clear, I am not responsible for that.”*   |
+|__“All the way”__   |as much as possible or completely: <br/>*“I’m with you all the way.”*   |
 
 ## 🔤 B
 
