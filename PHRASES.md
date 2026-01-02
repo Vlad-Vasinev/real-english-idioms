@@ -128,26 +128,26 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“In an effort to”__   |with the aim of, trying to, or in an attempt to achieve a specific goal or outcome: “The company launched a campaign in an effort to increase sales.”   |
-|__“It clouds your thinking”, same as “short-sighted thinking“__   |not thinking enough about how an action’ll affect the future: “Don’t let your anger cloud your thinking.”   |
-|__“It would stand to reason”__   |it is obvious or logical: “It stands to reason that if you are friendly to people you’ll get more back.”   |
-|__“I can relate”__   |you understand and share somebody’s feelings or experiences: “Person A: I’m so stressed about this deadline. Person B: I can relate.”   |
-|__“I’m gonna level with you”__   |i am gonna be honest with you: “He never leveled with his parents about the accident.”   |
-|__“I have a visual”__   |clearly see smth, spot a target…: “Person A: Can you see the house?” “Person B: Yes, I have a visual.”   |
-|__“It could take a while”__   |a task or process will require significant, but unspecified, amount of time: “I’m working on the report, but it could take a while”   |
-|__“In all likelihood”__   |high probability: “In all likelihood, the flight will be delayed due to the storm.”   |
-|__“In a sense”__   |partly true, true in one way: “In a sense, behaviour can not develop independently of the environment.”   |
-|__“I am on edge”__   |feeling nervous, tense, irritable: “I am on edge waiting for the exam results.”   |
-|__“Inextricably linked”__   |two or more things are connected very closely and fundamentally: “Poverty and poor health are inextricably linked.”   |
-|__“I have every confidence”__   |a strong belief: “We had every confidence in the staff.”   |
-|__“It will dawn on you”__   |to become known or obvious, often suddenly: “It finally dawned on him, that she has been joking.”   |
+|__“In an effort to”__   |with the aim of, trying to, or in an attempt to achieve a specific goal or outcome: <br/>*“The company launched a campaign in an effort to increase sales.”*   |
+|__“It clouds your thinking”, same as “short-sighted thinking“__   |not thinking enough about how an action’ll affect the future: <br/>*“Don’t let your anger cloud your thinking.”*   |
+|__“It would stand to reason”__   |it is obvious or logical: <br/>*“It stands to reason that if you are friendly to people you’ll get more back.”*   |
+|__“I can relate”__   |you understand and share somebody’s feelings or experiences: <br/>*“Person A: I’m so stressed about this deadline.* <br/>*Person B: I can relate.”*   |
+|__“I’m gonna level with you”__   |i am gonna be honest with you: <br/>*“He never leveled with his parents about the accident.”*   |
+|__“I have a visual”__   |clearly see smth, spot a target: <br/>*“Person A: Can you see the house?”* <br/>*“Person B: Yes, I have a visual.”*   |
+|__“It could take a while”__   |a task or process will require significant, but unspecified, amount of time: <br/>*“I’m working on the report, but it could take a while”*   |
+|__“In all likelihood”__   |high probability: <br/>*“In all likelihood, the flight will be delayed due to the storm.”*   |
+|__“In a sense”__   |partly true, true in one way: <br/>*“In a sense, behaviour can not develop independently of the environment.”*   |
+|__“I am on edge”__   |feeling nervous, tense, irritable: <br/>*“I am on edge waiting for the exam results.”*   |
+|__“Inextricably linked”__   |two or more things are connected very closely and fundamentally: <br/>*“Poverty and poor health are inextricably linked.”*   |
+|__“I have every confidence”__   |a strong belief: <br/>*“We had every confidence in the staff.”*   |
+|__“It will dawn on you”__   |to become known or obvious, often suddenly: <br/>*“It finally dawned on him, that she has been joking.”*   |
 
 ## 🔤 K
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Kick the bucket”__   |“die”(informal): “The old girl finally kicked the bucket.”   |
-|__“Keep it together”__   |to maintain composure: “I had a really hard time keeping it together after my wife died.”   |
+|__“Kick the bucket”__   |“die”(informal): <br/>*“The old girl finally kicked the bucket.”*   |
+|__“Keep it together”__   |to maintain composure: <br/>*“I had a really hard time keeping it together after my wife died.”<br/>*   |
 
 ## 🔤 L
 
