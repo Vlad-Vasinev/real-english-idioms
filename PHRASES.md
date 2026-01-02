@@ -148,3 +148,20 @@ Best wishes, Vladislav
 |---|---|
 |__“Kick the bucket”__   |“die”(informal): “The old girl finally kicked the bucket.”   |
 |__“Keep it together”__   |to maintain composure: “I had a really hard time keeping it together after my wife died.”   |
+
+## 🔤 L
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Lock in”__   |to focus intensely on smth: “I have a bit test tomorrow, I need to lock in tonight.”   |
+|__“Like a frog in a pond”__   |feeling insignificant or out of place in a large, overwhelming environment where other seem more skilled or important: “Someone new to a huge corporation might feel like a little frog in a big pond.”   |
+|__“Letdown”__   |disappointment: “The election was a bit of let-down.”   |
+|__“Leg up”__   |gain some advantage: “This technology will give it a leg up on the competition.”   |
+|__“Likewise”__   |in the same way / similar / also: “Person A: Pleased to meet you.” “Person B: Likewise.”   |
+|__“Limbo”__   |an uncertain situation that you can’t control: “We felt that we were left in limbo wondering wondering what was happening.”   |
+|__“Lying around”__   |to spend time being idle or relaxing: “We spend the weekend just lying around.”   |
+|__“Loose cannon”__   |an unpredictable or uncontrolled person who is liable to cause unintentional damage: “I don’t think we can take a risk on a loose cannon like him running our country.”   |
+|__“Let me get this straight”__   |let me make sure that I have a clear understanding of topic or situation: “You need to get your facts straight.”   |
+|__“Like it matters”__   |to express that smth is unimportant insignificant, or doesn’t make any difference: “Why would I care what your name is, like it matters.”   |
+|__“Lift a finger”__   |make a slightest effort to do smth, especially to help someone: “He never lifted a finger to help Jimmy released from prison.”   |
+|__“Laying waste”__   |to completely destroy, ruin smth: “The hurricane laid waste to the coastal towns.”   |
