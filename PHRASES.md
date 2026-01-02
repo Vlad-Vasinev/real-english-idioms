@@ -270,3 +270,10 @@ Best wishes, Vladislav
 |__“Take five”__   |have a short break: “Our crew took five at a little cafe nearby.”   |
 |__“To brief (you) in person”__   |give some details, instructions directly (personally): “I need to brief you in person on the new client.”   |
 |__“Tight leash”__   |to get control of smth: “Parents often keep teenagers on a tight leash for their safety.”   |
+
+## 🔤 U
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Under the radar”__   |to operate or exist without attracting attention: “A startup keeping it’s project under the radar until launch to prevent competition.”   |
+|__“Under better circumstances”__   |given the difficult nature of the situation: “She had every right to be angry under the circumstances.”   |
