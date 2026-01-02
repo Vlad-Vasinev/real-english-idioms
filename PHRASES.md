@@ -14,8 +14,8 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|“Akin to (something)”   |similar “They speak language akin to French.”   |
-|“About time”   |it should happen or done now “It is about time you got here.”   |
+|“Akin to (something)”   |similar *“They speak language akin to French.”*   |
+|“About time”   |it should happen or done now *“It is about time you got here.”*   |
 |“A glutton of punishment”   |a person who is always eager to take hard or unpleasant tasks “He is a real glutton for punishment, taking on all that extra work in the office.”   |
 |“All-time big”   |smth is the biggest, best or most extreme in history up to the present moment “That player is an all-time great in football.”   |
 |“Along the way”   |during a journey, process, or series of events “We stopped for coffee along the way to the mountains.”   |
