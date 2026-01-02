@@ -205,48 +205,48 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Partners don’t ditch partners”__   |true partners support each other, remain loyal and don’t abandon each other when things get tough: “Partners don’t ditch partners. I didn’t leave you there, I’’ll be here with you as well.”   |
-|__“Platonic relationship”__   |a deep, intimate friendship with strong emotional connection, trust, and support, but without any romantic or sexual attraction: “Best friends who share everything.”   |
-|__“Put up with”__   |tolerate or endure smth: “I’m too tired to put up with any nonsense.”   |
-|__“Pedal to the metal”__   |at full speed: “She loved carrying down the highway with the pedal to the metal.”   |
-|__“Present and accounted for”__   |from military: used to say that all people that re supposed to be at a place or event are there: “After a fire drill, a teacher confirms: All students are present and accounted for.”   |
-|__“Patch up”__   |to temporarily mend smth broken, give quick first aid: “She managed to patch up the old fence before winter.”   |
-|__“Pay back”__   |take revenge on someone: “When someone does you wrong, the first instinct is to pay them back for hurting you.”   |
-|__“Pay the price”__   |to suffer negative consequences or unpleasant results of your own actions: “If you don’t study, you’ll pay the price on the exam.”   |
-|__“Put back into it”__   |to use a lot of physical effort to try to do smth: “Come on, we need to get this car  off the road. Put your back into it.”   |
-|__“Path of least resistance”__   |an option avoiding difficulty: “As one who shies away from confrontation, I choose the path of least resistance.”   |
-|__“Poked around”__   |to search for smth by moving things around: “I was poking around in the garage and found my old bike.”   |
+|__“Partners don’t ditch partners”__   |true partners support each other, remain loyal and don’t abandon each other when things get tough: <br/>*“Partners don’t ditch partners. I didn’t leave you there, I’’ll be here with you as well.”*   |
+|__“Platonic relationship”__   |a deep, intimate friendship with strong emotional connection, trust, and support, but without any romantic or sexual attraction: <br/>*“Best friends who share everything.”*   |
+|__“Put up with”__   |tolerate or endure smth: <br/>*“I’m too tired to put up with any nonsense.”*   |
+|__“Pedal to the metal”__   |at full speed: <br/>*“She loved carrying down the highway with the pedal to the metal.”*   |
+|__“Present and accounted for”__   |from military: used to say that all people that re supposed to be at a place or event are there: <br/>*“After a fire drill, a teacher confirms: All students are present and accounted for.”*   |
+|__“Patch up”__   |to temporarily mend smth broken, give quick first aid: <br/>*“She managed to patch up the old fence before winter.”*   |
+|__“Pay back”__   |take revenge on someone: <br/>*“When someone does you wrong, the first instinct is to pay them back for hurting you.”*   |
+|__“Pay the price”__   |to suffer negative consequences or unpleasant results of your own actions: <br/>*“If you don’t study, you’ll pay the price on the exam.”*   |
+|__“Put back into it”__   |to use a lot of physical effort to try to do smth: <br/>*“Come on, we need to get this car  off the road. Put your back into it.”*   |
+|__“Path of least resistance”__   |an option avoiding difficulty: <br/>*“As one who shies away from confrontation, I choose the path of least resistance.”*   |
+|__“Poked around”__   |to search for smth by moving things around: <br/>*“I was poking around in the garage and found my old bike.”*   |
 
 ## 🔤 R
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Ring the bell”__   |sound vaguely familiar: “The name rings a bell.”   |
-|__“Rule of thumb”__   |a broadly accurate guide or principle based on practise rather than theory: “A good rule of thumb is that a portion of rice is two handfuls.”   |
-|__“Root for”__   |to hope for success of someone / smth: “The vast majority of the fans rooting for Mexico.”   |
-|__“Real deal”__   |a person or thing that is a good example of their kind: “His performance proved he is a real deal.”   |
-|__“Running low”__   |you have a small supply of something: “We are running low on cash.”   |
-|__“Remain to be seen”__   |it is not yet certain: “She has broken her leg. But it remains to be seen how badly.”   |
+|__“Ring the bell”__   |sound vaguely familiar: <br/>*“The name rings a bell.”*   |
+|__“Rule of thumb”__   |a broadly accurate guide or principle based on practise rather than theory: <br/>*“A good rule of thumb is that a portion of rice is two handfuls.”*   |
+|__“Root for”__   |to hope for success of someone / smth: <br/>*“The vast majority of the fans rooting for Mexico.”*   |
+|__“Real deal”__   |a person or thing that is a good example of their kind: <br/>*“His performance proved he is a real deal.”*   |
+|__“Running low”__   |you have a small supply of something: <br/>*“We are running low on cash.”*   |
+|__“Remain to be seen”__   |it is not yet certain: <br/>*“She has broken her leg. But it remains to be seen how badly.”*   |
 
 ## 🔤 S
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Second to none”__   |better than all others: “His cakes are second to none.”   |
-|__“Suck up”__   |behave obsequiously, especially for one’s own advantage: “She’s always sucking up to the boss.”   |
-|__“Shut down”__   |to reject somebody: “He asked her out, but she shut him down immediately.”   |
-|__“Stay tuned”__   |to keep watching or listening a broadcast: “Stay tuned for our breaking news report.”   |
-|__“Step in”__   |become involve in a difficult situation: “Palace officials asked the government to step in.”   |
-|__“Scale down”__   |reduce in size: “Manufacturing capacity has been scaled down.”   |
-|__“Stick around”__   |remain in or near a place: “I would like to stick around and watch the game.”   |
-|__“Simply put”__   |to explain smth in a clear, basic way: “Simply put, the economy is in trouble.”   |
-|__“Short time ago”__   |smth happened recently: “I saw her a short time ago.”   |
-|__“Stand for (smth)”__   |to support or represent a particular idea or set of ideas: “This party stands for lower taxes and individual freedom.”   |
-|__“Settle old scores”__   |take a revenge on someone: “The president used his speech to settle some one scores.”   |
-|__“Spell out”__   |to explain smth very clearly in detail: “Do I need to spell out the details of the contract for you?”   |
-|__“See fit”__   |consider it correct or acceptable to do smth: “Why did the company see fit to give you the job?”   |
-|__“Stand a chance”__   |have a prospect of success or survival: “His rivals don’t stand a chance.”   |
-|__“So far”__   |at this particular time: “So far only two Democrats have entered the room.”   |
+|__“Second to none”__   |better than all others: <br/>*“His cakes are second to none.”*   |
+|__“Suck up”__   |behave obsequiously, especially for one’s own advantage: <br/>*“She’s always sucking up to the boss.”*   |
+|__“Shut down”__   |to reject somebody: <br/>*“He asked her out, but she shut him down immediately.”*   |
+|__“Stay tuned”__   |to keep watching or listening a broadcast: <br/>*“Stay tuned for our breaking news report.”*   |
+|__“Step in”__   |become involve in a difficult situation: <br/>*“Palace officials asked the government to step in.”*   |
+|__“Scale down”__   |reduce in size: <br/>*“Manufacturing capacity has been scaled down.”*   |
+|__“Stick around”__   |remain in or near a place: <br/>*“I would like to stick around and watch the game.”*   |
+|__“Simply put”__   |to explain smth in a clear, basic way: <br/>*“Simply put, the economy is in trouble.”*   |
+|__“Short time ago”__   |smth happened recently: <br/>*“I saw her a short time ago.”*   |
+|__“Stand for (smth)”__   |to support or represent a particular idea or set of ideas: <br/>*“This party stands for lower taxes and individual freedom.”*   |
+|__“Settle old scores”__   |take a revenge on someone: <br/>*“The president used his speech to settle some one scores.”*   |
+|__“Spell out”__   |to explain smth very clearly in detail: <br/>*“Do I need to spell out the details of the contract for you?”*   |
+|__“See fit”__   |consider it correct or acceptable to do smth: <br/>*“Why did the company see fit to give you the job?”*   |
+|__“Stand a chance”__   |have a prospect of success or survival: <br/>*“His rivals don’t stand a chance.”*   |
+|__“So far”__   |at this particular time: <br/>*“So far only two Democrats have entered the room.”*   |
 
 ## 🔤 T
 
