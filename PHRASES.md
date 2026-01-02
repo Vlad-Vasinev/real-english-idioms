@@ -181,3 +181,12 @@ Best wishes, Vladislav
 |__“May well”__   |smth is likely or probable, a strong possibility or a reasonable conclusion: “She may well not want to travel alone.”   |
 |__“Manage your expectations”__   |keep your hopes and beliefs about outcome realistic: “I can’t finish this task in the next 3 days, it is too big. Manage your expectations.”   |
 |__“Make haste”__   |hurry: “I make haste to close the door.”   |
+
+## 🔤 N
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Never miss a trick”__   |never fail to take an advantage of a situation: “Despite his great wealth, John didn’t miss a trick when it came to cutting costs.”   |
+|__“Nerd alert”__   |slang used playfully to signal that someone is saying or doing smth very smart, geeky: “Person A: He was studying maths all dat again!” “Person B: Nerd alert”   |
+|__“No offence”__   |do not feel offended: “Okay lady, no offence.”   |
+|__“None whatsoever”__   |absolutely nothing, zero: “Person A: Did you have any trouble?” “Person B: None whatsoever.”   |
