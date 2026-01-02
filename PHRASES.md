@@ -96,3 +96,17 @@ Best wishes, Vladislav
 |__“Fend for yourselves”__   |without any help or assistance: “Now that you are adults you’ll have to fend for yourselves when it comes to bills and cooking.”   |
 |__“Finders keepers”__   |said by a child who found an object to the child who lost it, to show that they intend to keep it: “Person A: That is my car, give it back!”: “Person B: Finders keepers, first I’ll play with it for a while.”   |
 |__“Full swing”__   |at the stage when the level of activity is its highest: “The economic recovery is now in full swing.”   |
+
+## 🔤 G
+
+|Phrase   |Meaning   |
+|---|---|
+|__“Get over  with”__   |complete an unpleasant pr tedious but necessary task promptly: “I’ll be glad to get these exams over with.”   |
+|__“Get together”__   |assemble socially or cooperate: “We must get together for a drink sometime.”   |
+|__“Get to second base”__   |dating: to move beyond kissing (first base) to more involved touching, fondling above the breasts: “They kissed on their first date, but managed to get to the second base by the end of their third night out.”   |
+|__“Get off on (something)”__   |to find smth exciting, especially in a sexual way: “Dave likes power, he gets off on it.”   |
+|__“Go viral”__   |when content spreads quickly and widely: “The cat video went viral.”   |
+|__“Get down to”__   |to begin to do smth, to give serious attention to smth: “I must get down to booking the hotels.”   |
+|__“Get your knickers in a twist”__   |become upset or angry: “Don’t get your knickers in a twist. I’ll be ready in a minute.”   |
+|__“Get it over with”__   |to finish or reach the end of some unpleasant work: “I’ll be glad to get these exams over with.”   |
+|__“Given the lack”__   |because there is not enough or any of smth: “Given the lack of evidence, the case was dismissed.”   |
