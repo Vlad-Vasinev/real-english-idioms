@@ -153,53 +153,53 @@ Best wishes, Vladislav
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Lock in”__   |to focus intensely on smth: “I have a bit test tomorrow, I need to lock in tonight.”   |
-|__“Like a frog in a pond”__   |feeling insignificant or out of place in a large, overwhelming environment where other seem more skilled or important: “Someone new to a huge corporation might feel like a little frog in a big pond.”   |
-|__“Letdown”__   |disappointment: “The election was a bit of let-down.”   |
-|__“Leg up”__   |gain some advantage: “This technology will give it a leg up on the competition.”   |
-|__“Likewise”__   |in the same way / similar / also: “Person A: Pleased to meet you.” “Person B: Likewise.”   |
-|__“Limbo”__   |an uncertain situation that you can’t control: “We felt that we were left in limbo wondering wondering what was happening.”   |
-|__“Lying around”__   |to spend time being idle or relaxing: “We spend the weekend just lying around.”   |
-|__“Loose cannon”__   |an unpredictable or uncontrolled person who is liable to cause unintentional damage: “I don’t think we can take a risk on a loose cannon like him running our country.”   |
-|__“Let me get this straight”__   |let me make sure that I have a clear understanding of topic or situation: “You need to get your facts straight.”   |
-|__“Like it matters”__   |to express that smth is unimportant insignificant, or doesn’t make any difference: “Why would I care what your name is, like it matters.”   |
-|__“Lift a finger”__   |make a slightest effort to do smth, especially to help someone: “He never lifted a finger to help Jimmy released from prison.”   |
-|__“Laying waste”__   |to completely destroy, ruin smth: “The hurricane laid waste to the coastal towns.”   |
+|__“Lock in”__   |to focus intensely on smth: <br/>*“I have a bit test tomorrow, I need to lock in tonight.”*   |
+|__“Like a frog in a pond”__   |feeling insignificant or out of place in a large, overwhelming environment where other seem more skilled or important: <br/>*“Someone new to a huge corporation might feel like a little frog in a big pond.”*   |
+|__“Letdown”__   |disappointment: <br/>*“The election was a bit of let-down.”*   |
+|__“Leg up”__   |gain some advantage: <br/>*“This technology will give it a leg up on the competition.”*   |
+|__“Likewise”__   |in the same way / similar / also: <br/>*“Person A: Pleased to meet you.”* <br/>*“Person B: Likewise.”*   |
+|__“Limbo”__   |an uncertain situation that you can’t control: <br/>*“We felt that we were left in limbo wondering wondering what was happening.”*   |
+|__“Lying around”__   |to spend time being idle or relaxing: <br/>*“We spend the weekend just lying around.”*   |
+|__“Loose cannon”__   |an unpredictable or uncontrolled person who is liable to cause unintentional damage: <br/>*“I don’t think we can take a risk on a loose cannon like him running our country.”*   |
+|__“Let me get this straight”__   |let me make sure that I have a clear understanding of topic or situation: <br/>*“You need to get your facts straight.”*   |
+|__“Like it matters”__   |to express that smth is unimportant insignificant, or doesn’t make any difference: <br/>*“Why would I care what your name is, like it matters.”*   |
+|__“Lift a finger”__   |make a slightest effort to do smth, especially to help someone: <br/>*“He never lifted a finger to help Jimmy released from prison.”*   |
+|__“Laying waste”__   |to completely destroy, ruin smth: <br/>*“The hurricane laid waste to the coastal towns.”*   |
 
 ## 🔤 M
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Make up for it”__   |to compensate for a mistake, loss, or shortcoming by doing smth positive to balance it(correcting a mistake): “He bought me dinner to make up for being so late the day before.”   |
-|__“Mark my words”__   |pay close attention to what I’m saying, because it’s important and will definitely happen: “He’ll cause trouble - you mark my words!.”   |
-|__“Make (something) up”__   |device or create a story or plan: “She enjoyed making up tall tales.”   |
-|__“Make it clear”__   |to explain smth so there is no confusion: “We need to make things clear before we sign a contract.”   |
-|__“Make up a story on the fly”__   |invent smth, sometimes in order to deceive people: “The new rule seems to have been created on the fly.”   |
-|__“Make exit”__   |to leave a place or situation: “She made a hasty exit after the argument.”   |
-|__“Make it count”__   |get the best possible result from a situation: “You only have one shot at this interview, so make it count.”   |
-|__“Make up for lost time”__   |to enjoy an experience as much as possible because you did not have the opportunity to do it earlier in life: “I didn’t travel much in my twenties but I’m certainly making up for lost time now.”   |
-|__“May well”__   |smth is likely or probable, a strong possibility or a reasonable conclusion: “She may well not want to travel alone.”   |
-|__“Manage your expectations”__   |keep your hopes and beliefs about outcome realistic: “I can’t finish this task in the next 3 days, it is too big. Manage your expectations.”   |
-|__“Make haste”__   |hurry: “I make haste to close the door.”   |
+|__“Make up for it”__   |to compensate for a mistake, loss, or shortcoming by doing smth positive to balance it(correcting a mistake): <br/>*“He bought me dinner to make up for being so late the day before.”*   |
+|__“Mark my words”__   |pay close attention to what I’m saying, because it’s important and will definitely happen: <br/>*“He’ll cause trouble - you mark my words!.”*   |
+|__“Make (something) up”__   |device or create a story or plan: <br/>*“She enjoyed making up tall tales.”*   |
+|__“Make it clear”__   |to explain smth so there is no confusion: <br/>*“We need to make things clear before we sign a contract.”*   |
+|__“Make up a story on the fly”__   |invent smth, sometimes in order to deceive people: <br/>*“The new rule seems to have been created on the fly.”*   |
+|__“Make exit”__   |to leave a place or situation: <br/>*“She made a hasty exit after the argument.”*   |
+|__“Make it count”__   |get the best possible result from a situation: <br/>*“You only have one shot at this interview, so make it count.”*   |
+|__“Make up for lost time”__   |to enjoy an experience as much as possible because you did not have the opportunity to do it earlier in life: <br/>*“I didn’t travel much in my twenties but I’m certainly making up for lost time now.”*   |
+|__“May well”__   |smth is likely or probable, a strong possibility or a reasonable conclusion: <br/>*“She may well not want to travel alone.”*   |
+|__“Manage your expectations”__   |keep your hopes and beliefs about outcome realistic: <br/>*“I can’t finish this task in the next 3 days, it is too big. Manage your expectations.”*   |
+|__“Make haste”__   |hurry: <br/>*“I make haste to close the door.”*   |
 
 ## 🔤 N
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Never miss a trick”__   |never fail to take an advantage of a situation: “Despite his great wealth, John didn’t miss a trick when it came to cutting costs.”   |
-|__“Nerd alert”__   |slang used playfully to signal that someone is saying or doing smth very smart, geeky: “Person A: He was studying maths all day again!” “Person B: Nerd alert”   |
-|__“No offence”__   |do not feel offended: “Okay lady, no offence.”   |
-|__“None whatsoever”__   |absolutely nothing, zero: “Person A: Did you have any trouble?” “Person B: None whatsoever.”   |
+|__“Never miss a trick”__   |never fail to take an advantage of a situation: <br/>*“Despite his great wealth, John didn’t miss a trick when it came to cutting costs.”*   |
+|__“Nerd alert”__   |slang used playfully to signal that someone is saying or doing smth very smart, geeky: <br/>*“Person A: He was studying maths all day again!”* <br/>*“Person B: Nerd alert”*   |
+|__“No offence”__   |do not feel offended: <br/>*“Okay lady, no offence.”*   |
+|__“None whatsoever”__   |absolutely nothing, zero: <br/>*“Person A: Did you have any trouble?”* <br/>*“Person B: None whatsoever.”*   |
 
 ## 🔤 O
 
 |Phrase   |Meaning   |
 |---|---|
-|__“Our fold”__   |a group or community / family: “She always returns to the fold for her holidays.”   |
-|__“Out of sorts”__   |slightly unwell: “She has been feeling nauseous and generally out of sorts.”   |
-|__“Old stomping ground”__   |a place someone knows well and liked to frequent, but perhaps doesn’t visit as often now: “This sports bar used to be one of my brother’s old stomping ground.”   |
-|__“Out of the loop”__   |unaware of information about a particular matter: “I have been out of the loop. I didn’t realize Wendy and Bob had got engaged.”   |
-|__“On ice”__   |temporarily paused: “The project is on ice at the moment”   |
+|__“Our fold”__   |a group or community / family: <br/>*“She always returns to the fold for her holidays.”*   |
+|__“Out of sorts”__   |slightly unwell: <br/>*“She has been feeling nauseous and generally out of sorts.”*   |
+|__“Old stomping ground”__   |a place someone knows well and liked to frequent, but perhaps doesn’t visit as often now: <br/>*“This sports bar used to be one of my brother’s old stomping ground.”*   |
+|__“Out of the loop”__   |unaware of information about a particular matter: <br/>*“I have been out of the loop. I didn’t realize Wendy and Bob had got engaged.”*   |
+|__“On ice”__   |temporarily paused: <br/>*“The project is on ice at the moment”*   |
 
 ## 🔤 P
 
