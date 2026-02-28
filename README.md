@@ -1,5 +1,6 @@
 # real-english-idioms
 🎬 English Idioms &amp; Phrasal Verbs from Movies and TV Shows
+- [pdf-presentation](https://github.com/Vlad-Vasinev/Vlad-Vasinev/blob/main/eng_phrases_presentation.pdf)
 
 ## 📌 The story behind this collection:
 My name is Vladislav. I'm not a native English speaker, but for the last three years, I've been studying the language — both for work and for fun.
