@@ -40,6 +40,9 @@
 |__“Broad question”__   |doesn’t have one correct answer: <br/>*“Tell me about the Civil War.”* <br/>*“What exactly? That is a broad question.”*   |
 |__“By all means”__   |of course, certainly: <br/>*“May I make a suggestion?” “By all means.”*   |
 |__“Be predicated on (smth)”__   |based on, founded on or depending on smth else (necessary condition): <br/>*“His legal argument was predicated upon a specific interpretation of the law.”*   |
+|__“Bust our butts”__   |to work extremely hard: <br/>*“We've been busting our butts all week to get this task ready.”*   |
+|__“Be in a jam”__   |to be in a difficult, awkward situation, predicament: <br/>*“When my wallet got stollen, i realised, i am in a jam because i had no money or id.”*   |
+|__“By the chance”__   |possibly (used in tentative inquiries or suggestions: <br/>*“Were you looking for me by any chance?”*   |
 
 ## 🔤 C
 
@@ -69,6 +72,7 @@
 |__“Due to“__   |because of smth: <br/>*“Due to the complaints of parents he lost his job.”*   |
 |__“Distant past”__   |a time long, long ago, far back in time: <br/>*“The story explores the traditions of a people from the distant past.”*   |
 |__“Do over”__   |a new attempt or opportunity to do smth after a previous attempt has been unsuccessful or unsatisfactory: <br/>*“Your performance is still not perfect, let’s do it over.”*   |
+|__“Do a massive solid“__   |to perform a significant, helpful act for someone: <br/>*“Hey, can you do me a massive solid and help me paint my appartment this week?”*   |
 
 ## 🔤 E
 
@@ -86,6 +90,7 @@
 |__“Fend for yourselves”__   |without any help or assistance: <br/>*“Now that you are adults you’ll have to fend for yourselves when it comes to bills and cooking.”*   |
 |__“Finders keepers”__   |said by a child who found an object to the child who lost it, to show that they intend to keep it: <br/>*“Person A: That is my car, give it back!”* <br/>*“Person B: Finders keepers, first I’ll play with it for a while.”*   |
 |__“Full swing”__   |at the stage when the level of activity is its highest: <br/>*“The economic recovery is now in full swing.”*   |
+|__“Force my hand”__   |make someone do smth: <br/>*“I didn't want to reveal plan yet, but your constand questioning forced my hand.”*   |
 
 ## 🔤 G
 
@@ -131,6 +136,7 @@
 |__“Inextricably linked”__   |two or more things are connected very closely and fundamentally: <br/>*“Poverty and poor health are inextricably linked.”*   |
 |__“I have every confidence”__   |a strong belief: <br/>*“We had every confidence in the staff.”*   |
 |__“It will dawn on you”__   |to become known or obvious, often suddenly: <br/>*“It finally dawned on him, that she has been joking.”*   |
+|__“I have got bodied”__   |to be completely dominated or defeated: <br/>*“My team got absolutely bodied in this game.”*   |
 
 ## 🔤 K
 
@@ -155,6 +161,7 @@
 |__“Like it matters”__   |to express that smth is unimportant insignificant, or doesn’t make any difference: <br/>*“Why would I care what your name is, like it matters.”*   |
 |__“Lift a finger”__   |make a slightest effort to do smth, especially to help someone: <br/>*“He never lifted a finger to help Jimmy released from prison.”*   |
 |__“Laying waste”__   |to completely destroy, ruin smth: <br/>*“The hurricane laid waste to the coastal towns.”*   |
+|__“Latch on”__   |to become firmly attached to someone or smth: <br/>*“Antibodies latch onto proteins on the surfaces of the virus.”*   |
 
 ## 🔤 M
 
@@ -190,6 +197,7 @@
 |__“Old stomping ground”__   |a place someone knows well and liked to frequent, but perhaps doesn’t visit as often now: <br/>*“This sports bar used to be one of my brother’s old stomping ground.”*   |
 |__“Out of the loop”__   |unaware of information about a particular matter: <br/>*“I have been out of the loop. I didn’t realize Wendy and Bob had got engaged.”*   |
 |__“On ice”__   |temporarily paused: <br/>*“The project is on ice at the moment”*   |
+|__“On his last legs”__   |near the end of life: <br/>*“The foundry business was on its last legs.”*   |
 
 ## 🔤 P
 
@@ -206,6 +214,7 @@
 |__“Put back into it”__   |to use a lot of physical effort to try to do smth: <br/>*“Come on, we need to get this car  off the road. Put your back into it.”*   |
 |__“Path of least resistance”__   |an option avoiding difficulty: <br/>*“As one who shies away from confrontation, I choose the path of least resistance.”*   |
 |__“Poked around”__   |to search for smth by moving things around: <br/>*“I was poking around in the garage and found my old bike.”*   |
+|__“Pay off”__   |yield good resulte, succeed: <br/>*“All the hard work i had done over the summer paid off.”*   |
 
 ## 🔤 R
 
@@ -237,6 +246,7 @@
 |__“See fit”__   |consider it correct or acceptable to do smth: <br/>*“Why did the company see fit to give you the job?”*   |
 |__“Stand a chance”__   |have a prospect of success or survival: <br/>*“His rivals don’t stand a chance.”*   |
 |__“So far”__   |at this particular time: <br/>*“So far only two Democrats have entered the room.”*   |
+|__“Suplex moment”__   |Dramatic, impactful event where someone is unexpectedly or powerfully flipped or thrown down(used metaphorically in pop culture, gaming): <br/>*“In a video game if a player counterattacks with a devastating move, it is a suplex moment.”*   |
 
 ## 🔤 T
 
@@ -260,6 +270,8 @@
 |__“Take five”__   |have a short break: <br/>*“Our crew took five at a little cafe nearby.”*   |
 |__“To brief (you) in person”__   |give some details, instructions directly (personally): <br/>*“I need to brief you in person on the new client.”*   |
 |__“Tight leash”__   |to get control of smth: <br/>*“Parents often keep teenagers on a tight leash for their safety.”*   |
+|__“To take that in your stride”__   |to deal with difficulties, problems: <br/>*“She took the criticism in her stride and continued with her project.”*   |
+|__“To know from first hand(firsthand knowledge”__   |to learn or experience it directly: <br/>*“She had first hand knowledge of the citie's challenges after living there for years.”*   |
 
 ## 🔤 U
 
