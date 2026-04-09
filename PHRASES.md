@@ -90,7 +90,7 @@
 |__“Fend for yourselves”__   |without any help or assistance: <br/>*“Now that you are adults you’ll have to fend for yourselves when it comes to bills and cooking.”*   |
 |__“Finders keepers”__   |said by a child who found an object to the child who lost it, to show that they intend to keep it: <br/>*“Person A: That is my car, give it back!”* <br/>*“Person B: Finders keepers, first I’ll play with it for a while.”*   |
 |__“Full swing”__   |at the stage when the level of activity is its highest: <br/>*“The economic recovery is now in full swing.”*   |
-|__“Force my hand”__   |make someone do smth: <br/>*“I didn't want to reveal plan yet, but your constand questioning forced my hand.”*   |
+|__“Force my hand”__   |make someone do smth: <br/>*“I didn't want to reveal plan yet, but your constant questioning forced my hand.”*   |
 
 ## 🔤 G
 
